@@ -8,8 +8,7 @@ date: 2024-01-15T00:00:00.000Z
 contributors:
   - komatic5
   - sparktwee
-description: This guide will explain the main properties you need to know to
-  effectively make use of parallax in your GD levels.
+description: This guide will explain the main properties you need to know to effectively make use of parallax in your GD levels.
 tags:
   - Grade 1
   - Visual Effects
