@@ -21,7 +21,7 @@ math: true
 
 {{< /callout >}}
 
-- - -
+---
 
 # 1: Introduction
 
@@ -154,8 +154,6 @@ The time complexity is listed below:
 ### Implementation
 
 ```py
-'''#3. Merge Sort'''
-
 def MS_SortSubArray(LeftArray,RightArray):
     SubArray = []  # Final Sorted SubArray
     LAI = 0  # Left Array Index
@@ -179,18 +177,22 @@ def MS_SortSubArray(LeftArray,RightArray):
         SubArray += LeftArray[LAI:]
     return SubArray
 
+
 def Merge_Sort(Array):
     SAS = 2  # Sub Array Size
+
     while SAS < 2 * len(Array):
-        for SAI in range(0,len(Array),SAS):  # Sub Array Index
+        for SAI in range(0, len(Array), SAS):  # Sub Array Index
 
             # Sets up both Left and Right Arrays
             LeftArray = Array[SAI : SAI + (SAS//2)]
             RightArray = Array[(SAI + SAS//2) : SAI + SAS]
 
             Array[SAI : SAI + len(LeftArray) + len(RightArray)] = \
-            MS_SortSubArray(LeftArray,RightArray)  # Sorts Individual Sub arrays
+            MS_SortSubArray(LeftArray, RightArray)  # Sorts Individual Sub arrays
+
         SAS *= 2  # Increases Sub Aray Index by a multiple of 2
+
     return(Array)
 ```
 
@@ -208,8 +210,6 @@ The time complexity is listed below:
 ### Implementation
 
 ```py
-'''4. Counting Sort'''
-
 def Counting_Sort(Array):
     # Initialization of MaxNum, CountArray and FinalArray arrays
     MaxNum = max(Array) + 1
@@ -221,14 +221,14 @@ def Counting_Sort(Array):
         CountArray[i] += 1
 
     # Stores cumulative sum of elements in CountArray
-    for i in range(1,len(CountArray)):
+    for i in range(1, len(CountArray)):
         CountArray[i] += CountArray[i-1]
 
     '''Uses the Array Value as an Index to Count Array,
     Using Count array's resulting value as an index for Final Array,
     subtracting 1 to align with Array'''
 
-    for i in range(len(Array)-1,-1,-1):
+    for i in range(len(Array)-1, -1, -1):
         FinalArray[CountArray[Array[i]]-1] = Array[i]
         CountArray[Array[i]] -= 1
 
@@ -249,20 +249,23 @@ The time complexity is listed below:
 ### Implementation
 
 ```py
-'''5. Radix Sort'''
-    ''' Same as normal Counting Sort, but sorts using the integer in the
-    specific decimal place indicated via the exp variable'''
+'''Similar as normal Counting Sort, but sorts using the integer
+in the specific decimal place indicated via the exp variable'''
 
-def RS_CountingSort(Array,num,exp):
+def RS_CountingSort(Array, num, exp):
     FinalArray = [0] * num
     CountArray = [0] * 10
+
     for i in range(num):
         CountArray[(Array[i] // exp) % 10] += 1
-    for i in range (1,10):
+
+    for i in range (1, 10):
         CountArray[i] += CountArray[i - 1]
-    for i in range(num-1,-1,-1):
+
+    for i in range(num-1, -1, -1):
         FinalArray[CountArray[(Array[i] // exp) % 10] - 1] = Array[i]
         CountArray[(Array[i] // exp) % 10] -= 1
+
     return FinalArray
 
 
@@ -272,8 +275,9 @@ def Radix_Sort(Array):
     exp = 1 # Initializes exponent
 
     while MaxNum / exp > 0:
-        Array = RS_CountingSort(Array,num,exp)
+        Array = RS_CountingSort(Array, num, exp)
         exp *= 10 # Increases exp by a factor of 10
+
     return Array
 ```
 
