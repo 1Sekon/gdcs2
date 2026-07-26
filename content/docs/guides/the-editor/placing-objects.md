@@ -7,15 +7,13 @@ weight: 1010
 date: 2023-03-20T00:00:00.000Z
 contributors:
   - komatic5
-description: Welcome to the first Editor guide! Here, we’ll show you how to
-  place objects, remove them, and navigate the editor.
+description: Welcome to the first Editor guide! Here, we’ll show you how to place objects, remove them, and navigate the editor.
 tags:
   - Grade 0
   - The Editor
 seo:
-  title: Geometry Dash Editor Guide
-  description: Part 1 of how to use Geometry Dash's level editor, going over how
-    to navigate the editor, and the build, edit, and delete tabs.
+  title: How to Use the Geometry Dash Editor
+  description: Part 1 of how to use Geometry Dash's level editor, going over how to navigate the editor, and the build, edit, and delete tabs.
   canonical: ""
   noindex: false
 ---
@@ -91,7 +89,7 @@ After selecting objects, you can change their properties as follows:
 
 {{< callout context="empty" title="Object Location" icon="outline/info-circle" >}}
 
-- {{< img src="images/GDEmotes/Buttons/SmallSmall.png" class="emote">}} The *thin, small arrows* move objects by *1/60th of a block*.
+- {{< img src="images/GDEmotes/Buttons/SmallSmallArrow.png" class="emote">}} The *thin, small arrows* move objects by *1/60th of a block*.
 - {{< img src="images/GDEmotes/Buttons/SmallArrow.png" class="emote">}} The *small arrows* move objects by *1/15th of a block*.
 - {{< img src="images/GDEmotes/Buttons/SmallMediumArrow.png" class="emote">}} The *small arrows with a line in them* move objects by *1/2 of a block*.
 - {{< img src="images/GDEmotes/Buttons/MediumArrow.png" class="emote">}} The *medium arrows* move an object *1 block*.
