@@ -53,7 +53,7 @@ On the **left side** of the screen, you'll see these {{< img src="images/GDEmote
 
 Once you place an object, it will be **selected**. Any changes you make in other tabs, such as the Edit Tab, will *only apply to objects you have selected*. You can use the {{< img src="images/GDEmotes/Buttons/DeSelect.png" class="emote">}} **De-Select** button to stop selecting an object.
 
-{{< callout context="empty" title="Fun Fact" icon="outline/info-circle" >}}
+{{< callout context="" title="Fun Fact" icon="outline/info-circle" >}}
 
 If you click on an object while in the Build Tab, the tab will **show you where to find that object again**.
 
@@ -70,7 +70,7 @@ If you want to do that, look in the *bottom-right corner* of your editor, and fi
 
 {{< callout context="caution" title="Caution: Swipe and Navigation" icon="outline/alert-triangle" >}}
 
-While {{< img src="images/GDEmotes/Buttons/Swipe.png" class="emote">}} Swipe is enabled, clicking and dragging will **not** move you around the editor. You must use the slider to get around, or **disable Swipe** by clicking on it again.
+While **Swipe** is enabled, clicking and dragging will **not** move you around the editor. You must use the slider to get around, or **disable Swipe** by clicking on it again.
 {{< /callout >}}
 
 {{< youtube PpLad3Hj5aE >}}
@@ -87,7 +87,7 @@ As before, use the {{< img src="images/GDEmotes/Buttons/DeSelect.png" class="emo
 
 After selecting objects, you can change their properties as follows:
 
-{{< callout context="empty" title="Object Location" icon="outline/info-circle" >}}
+## Object Location
 
 - {{< img src="images/GDEmotes/Buttons/SmallSmallArrow.png" class="emote">}} The *thin, small arrows* move objects by *1/60th of a block*.
 - {{< img src="images/GDEmotes/Buttons/SmallArrow.png" class="emote">}} The *small arrows* move objects by *1/15th of a block*.
@@ -98,9 +98,8 @@ After selecting objects, you can change their properties as follows:
 - In the **bottom right** of the editor, you can find the {{< img src="images/GDEmotes/Buttons/FreeMove.png" class="emote">}} **Free Move** and {{< img src="images/GDEmotes/Buttons/Snap.png" class="emote">}} **Snap** buttons.
   - The {{< img src="images/GDEmotes/Buttons/FreeMove.png" class="emote">}} **Free Move** button lets you *drag objects* to new places on the screen.
   - While using **Free Move**,  the {{< img src="images/GDEmotes/Buttons/Snap.png" class="emote">}} **Snap** button lets you *snap those objects to the grid*.
-{{< /callout >}}
 
-{{< callout context="empty" title="Object Rotation & Flipping" icon="outline/info-circle" >}}
+## Object Rotation & Flipping
 
 - {{< img src="images/GDEmotes/Buttons/RotateCW.png" class="emote">}} {{< img src="images/GDEmotes/Buttons/RotateCCW.png" class="emote">}} The **rotate buttons** rotate objects by 90 degrees, either *clockwise* or *counter-clockwise*.
 
@@ -114,17 +113,13 @@ After selecting objects, you can change their properties as follows:
 
 - In the **bottom right** of the editor, you can find the {{< img src="images/GDEmotes/Buttons/RotateButton.png" class="emote">}} **Rotate** button. This is identical to the {{< img src="images/GDEmotes/Buttons/FreeRotate.png" class="emote">}} **Free Rotate** button.
 
-{{< /callout >}}
-
-{{< callout context="empty" title="Object Scaling" icon="outline/info-circle" >}}
+## Object Scaling
 
 - {{< img src="images/GDEmotes/Buttons/ScaleButton.png" class="emote">}} Use the **scale button** to change an object's size. Objects can have any size between `0.25` and `4`.
 
 - {{< img src="images/GDEmotes/Buttons/ScaleXY.png" class="emote">}} Use the **scale XY button** to squash or stretch an object. You can make an object's X or Y scale anything between `0.25` and `4`.
 
 - {{< img src="images/GDEmotes/Buttons/Warp.png" class="emote">}} Use the **warp button** to change an object's size and skew. Unlike scaling, there is no size limit here. This is explained more in the [Transforming Objects](/docs/guides/the-editor/transforming-objects) guide.
-
-{{< /callout >}}
 
 {{< youtube lGJ7G-StnZ8 >}}
 
