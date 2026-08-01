@@ -22,11 +22,13 @@ seo:
 ---
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 
+
 - The Build Tab has 14 different tabs that contain lots of different object types.
 - These object types can be divided into 6 categories that have different uses.
 - Most objects can be put into general tilesets, especially blocks.
 - Out of the 6 categories, Detail Objects contain the most objects.
 - It’s easy to get intimidated by the amount of detail objects when you decorate, so take things slowly.
+
 
 
 {{< /callout >}}
@@ -65,6 +67,7 @@ Most of the blocks are put into tilesets, which are basically a group of objects
 * Base object: used on the inside of a structure
 * Pillar head: used at the top of a pillar
 * Pillar object: used as a pillar rather than two edge objects
+
   Some tilesets might differ from this, but most tilesets consist of those objects. You can see an example of a tileset in the grid objects above.
 
 # 3: Outlines
@@ -99,7 +102,7 @@ This tab features orbs, pads, portals, and some other miscellaneous gameplay obj
 
 # 8: Animated Objects
 
-Almost all of the animated objects are in this tab such as: 2.0 monsters, electricity, fire, particles, and pretty much anything you can think of. Most of these objects don’t have hitboxes, so keep that in mind if you want to use them as obstacles. There is a whole separate menu for animated objects, which you can find in the [Animated Objects](/docs/guides/deco-1/animated-objects/) guide.
+Almost all of the animated objects are in this tab, such as 2.0 monsters, electricity, fire, particles, and pretty much anything you can think of. Most of these objects don’t have hitboxes, so keep that in mind if you want to use them as obstacles. There is a whole separate menu for animated objects, which you can find in the [Animated Objects](/docs/guides/deco-1/animated-objects/) guide.
 
 {{< img src="https://lh3.googleusercontent.com/d/1fEgOrcVjrY3lm16Iu_roB7akg6H6My1W" >}}
 
@@ -111,13 +114,13 @@ This tab consists of almost ALL pixel-art objects, excluding some collectable pi
 
 # 10: Collectable Objects
 
-Collectable objects are objects that you can collect in-game, like keys, coins, or various other objects, but for some reason RobTop also included some pixel art objects into this tab at the end. The basis of collectable objects is that when you walk over them, it disappears and activates something. More detail on these can be found in the [Collectable Objects](/docs/guides/the-editor/collectable-objects/) guide.
+Collectable objects are objects that you can collect in-game, like keys, coins, or various other objects, as well as, for some reason, some pixel art objects at the end of the tab. The basis of collectable objects is that when you walk over them, they disappear and activate something. More detail on these can be found in the [Collectable Objects](/docs/guides/the-editor/collectable-objects/) guide.
 
 {{< img src="https://lh3.googleusercontent.com/d/1iaZ90mUS3I-R7XNRb-3MYdPnPfu8WtF_" >}}
 
 # 11: Miscellaneous Objects
 
-This tab consists of miscellaneous detail objects, like small circles, stars, and some other various details. Most of these objects are kind of random and don’t have anywhere else to be, so they’re in this tab, so feel free to use them for whatever you want. Note that ALL of these objects are also usable in the particle editor object.
+This tab consists of miscellaneous detail objects, like small circles, stars, and some other various details. Most of these objects are kind of random and don’t have anywhere else to be, so they’re in this tab; feel free to use them for whatever you want. Note that ALL of these objects are also usable in the particle editor object.
 
 {{< img src="https://lh3.googleusercontent.com/d/1pLR5JsT_sGQXKd29cTP0RPo3CaaicP1C" >}}
 
