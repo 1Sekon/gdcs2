@@ -95,9 +95,9 @@ You have the freedom to use easings to communicate how an object moves and behav
 
 
 
-Additionally, easing rates (available in Ease and Elastic easings) can give you more freedom with your movements. An easing rate less than 1.00 with Ease In Out will move an object quickly at first, slow down in the middle, and move quickly near the end of its movement. Easing rates 1.00, 2.00, 3.00, 4.00, and 5.00 represent linear (sine), quadratic, cubic, quart, and quint easings respectively. These easings get progressively faster in the middle of the movement. Additionally, if you look closely, Elastic In Out has a very subtle "rubber band" movement, where it oscillates around the origin, shoots towards the target, and oscillates around that before coming to a complete stop. The more you lower the easing rate, the more apparent this effect becomes.
+Additionally, easing rates (available in Ease and Elastic easings) can give you more freedom with your movements. An easing rate less than 1.00 with Ease In Out will move an object quickly at first, slow down in the middle, and move quickly near the end of its movement. Easing rates 1.00, 2.00, 3.00, 4.00, and 5.00 represent linear (sine), quadratic, cubic, quart, and quint easings respectively, which are represented visually below. You'll notice that these easings get progressively faster in the middle of the movement. Additionally, if you look closely, Elastic In Out has a very subtle "rubber band" movement, where it oscillates around the origin, shoots towards the target, and oscillates around that before coming to a complete stop. The more you lower the easing rate, the more apparent this effect becomes.
 
-\[to whoever reviews this pull request, please replace this line of text with the image I sent in #writer-chat in the Discord server]
+{{< img src="https://lh3.googleusercontent.com/d/1YMNNsk9B9IZEQJI1wjmz7oK-n4pqZujU" >}}
 
 # 3. Examples
 
