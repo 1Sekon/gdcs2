@@ -8,26 +8,36 @@ date: 2023-03-18T00:00:00.000Z
 contributors:
   - graylasagna
   - unknown
-description: Refresh Rates are an integral part of how Geometry Dash physics work. As such, it's important to understand how refresh rates work when making gameplay.
+description: Refresh Rates are an integral part of how Geometry Dash physics
+  work. As such, it's important to understand how refresh rates work when making
+  gameplay.
 tags:
   - Grade 1
   - Gameplay Features
 ---
-
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
+
 
 - The refresh rate is the rate at which your monitor displays new frames. Different refresh rates have different effects on GD’s physics.
 - Higher refresh rates lead to more accurate inputs and generally make the game easier to play.
 - The introduction of new refresh rates can change how the game functions during play, giving way to bugs. Always make sure you playtest your gameplay on multiple refresh rates to mitigate this.
 
+
 {{< /callout >}}
 
-** **
+
+
+- - -
+
+{{< callout context="danger" title="This guide is outdated!" icon="outline/info-circle" >}}
+In update 2.208, RobTop implemented the features Click Between Steps and Click On Steps into the game. This option effectively allows all players on all refresh rates to experience the same physics, regardless of device refresh rates. Before this change, physics was entirely dependent on your device's framerate. Due to this change, a lot of information in this guide is now considered outdated. As a result, this guide may undergo many modifications, so until then, please be sure to keep this change in mind as you read.
+{{< /callout >}}
+
 # 1: Why Hertz Matters
 
 Geometry Dash runs on changing frames. Every new frame updates the player’s position and replaces the old one, giving the illusion of motion. The rate at which frames are loaded depends on the **refresh rate** of the monitor displaying the game.
 
-This is a value that shows how fast a display screen can renew images, usually expressed in *hertz* [Hz]. For instance, a 60Hz monitor displays 60 frames every second, and a 240Hz monitor displays 240 frames per second.
+This is a value that shows how fast a display screen can renew images, usually expressed in *hertz* \[Hz]. For instance, a 60Hz monitor displays 60 frames every second, and a 240Hz monitor displays 240 frames per second.
 
 GD physics generally affect how the player interacts with hitboxes in the level. Every interactable object, such as saws and outlined blocks, has a hitbox. When the player’s hitbox collides with these objects’ hitboxes, an event is triggered that changes what the player is currently doing. The game checks for these collisions every frame, and executes the event the same frame it detects the collision.
 
@@ -55,10 +65,8 @@ Slope physics, even on 60Hz, are slightly inconsistent and prone to bugs, and hi
 
 These seem to vary between refresh rates, making one person’s bug-tested and consistent gameplay another person’s bug-ridden and inconsistent gameplay. Always make sure to playtest your levels using multiple refresh rates, including 60Hz, 144Hz, 240Hz, and 360Hz.
 
-
 # Sources
 
-- [KugelBlitZ - Frame Perfects & GD physics](<https://www.youtube.com/watch?v=BiWtvKl0VCQ&ab_channel=KugelBlitZ>)
-- [Stormfly - 
-The 312 Bugs in Geometry Dash (2.113)](<https://www.youtube.com/watch?v=hhBnSJx-0-k&ab_channel=Stormy>)
-
+* [KugelBlitZ - Frame Perfects & GD physics](https://www.youtube.com/watch?v=BiWtvKl0VCQ&ab_channel=KugelBlitZ)
+* [Stormfly - 
+  The 312 Bugs in Geometry Dash (2.113)](https://www.youtube.com/watch?v=hhBnSJx-0-k&ab_channel=Stormy)
