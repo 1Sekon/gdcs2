@@ -9,18 +9,24 @@ contributors:
   - averageundertalefan
   - sparktwee
   - poryii
-description: "How does a drawing come to life? For every animation movie that you’ve watched and every crazy Geometry Dash effect that you’ve seen, there are individual objects that change positions to simulate life-like movement. For the first animation principles guide, we’ll discuss two principles that communicate an object’s speed and acceleration: Timing and Easing."
+description: "How does a drawing come to life? For every animation movie that
+  you’ve watched and every crazy Geometry Dash effect that you’ve seen, there
+  are individual objects that change positions to simulate life-like movement.
+  For the first animation principles guide, we’ll discuss two principles that
+  communicate an object’s speed and acceleration: Timing and Easing."
 tags:
   - Grade 2
   - Animation
 ---
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 
+
 - Timing measures movement in terms of frames: slow moving objects have more frames in between while fast moving objects have less frames.
 - Slow timing usually communicates the following: delay, old age, heaviness, grace, timelessness, patience.
 - Fast timing usually communicates the following: responsiveness, youth, lightweight, flashiness, rush hour, deadlines.
 - Easing explains how these frames are spaced out. Due to how objects tend to accelerate and decelerate when they move, it also can be translated in animation: Slow In, Slow Out.
 - Within the context of Geometry Dash, some triggers are equipped with their own easings that you can choose; some of which will have more versatile use cases than others.
+
 
 
 {{< /callout >}}
@@ -86,6 +92,12 @@ Use the video below to visualize each easing option in Geometry Dash.
 {{< youtube pPfMCqZe360 >}}
 
 You have the freedom to use easings to communicate how an object moves and behaves. Even more, you can stack those easings to create more complex movements. For instance, by stacking Sine In and Sine Out easings, you can create curvy movements, [as shown here.](https://www.gdcreatorschool.com/docs/guides/triggers-1/stacking/#3-combined-effects)
+
+
+
+Additionally, easing rates (available in Ease and Elastic easings) can give you more freedom with your movements. An easing rate less than 1.00 with Ease In Out will move an object quickly at first, slow down in the middle, and move quickly near the end of its movement. Easing rates 1.00, 2.00, 3.00, 4.00, and 5.00 represent linear (sine), quadratic, cubic, quart, and quint easings respectively, which are represented visually below. You'll notice that these easings get progressively faster in the middle of the movement. Additionally, if you look closely, Elastic In Out has a very subtle "rubber band" movement, where it oscillates around the origin, shoots towards the target, and oscillates around that before coming to a complete stop. The more you lower the easing rate, the more apparent this effect becomes.
+
+{{< img src="https://lh3.googleusercontent.com/d/1YMNNsk9B9IZEQJI1wjmz7oK-n4pqZujU" >}}
 
 # 3. Examples
 
