@@ -10,17 +10,21 @@ contributors:
   - chuckolate
   - e.clypse
   - naem.less
-description: Duals have a lot of use and versatility in Geometry Dash, yet they can also be some of the most annoying aspects of creating gameplay. This guide explains the types of duals you can create and some interesting uses for them.
+description: Duals have a lot of use and versatility in Geometry Dash, yet they
+  can also be some of the most annoying aspects of creating gameplay. This guide
+  explains the types of duals you can create and some interesting uses for them.
 tags:
   - Grade 1
   - Types of Gameplay
 ---
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 
+
 - The Dual gamemode lets you play as two icons at the same time.
 - There are three types of duals: symmetrical, asymmetrical and 2-player duals.
 - Duals allow for more interesting gameplay, as you have a lot of room for customization, experimentation and mix ups.
 - You can use different gimmicks to spice up your dual gameplay.
+
 
 
 {{< /callout >}}
@@ -60,7 +64,7 @@ You can also use 2 player controls in a more conventional way and make (a)symmet
 
 {{< youtube kZzp_QeahS0 >}}
 
-{{< youtube ti5G-c3wcM0 >}}
+{{< youtube _5IgON8VQxQ >}}
 
 # 3: Building Dual Gameplay
 
@@ -137,7 +141,7 @@ Let’s discuss **gravity** first. You can give player 1 and player 2 different 
 
 {{< youtube WxWtC2tMdTo >}}
 
-{{< youtube id=NbnEufSbrVU start=15 >}}
+{{< youtube id="NbnEufSbrVU" start="15" >}}
 
 To make one icon go in **reverse** in respect to the other one, the icon needs to hit a Reverse pad or orb; *anything else will affect both players*. It is recommended to reverse player 2, as the camera is by default tied to player 1. If you reverse player 1 you will end up with pretty goofy camera behavior, unless that is your intention in the first place.
 
@@ -155,4 +159,4 @@ Probably the most popular level that uses Arrow trigger duals is Out Of This Wor
 
 {{< youtube 9AuptH4fElM >}}
 
-{{< youtube id=KW7tPgRYz0M start=163 >}}
+{{< youtube id="KW7tPgRYz0M" start="163" >}}
