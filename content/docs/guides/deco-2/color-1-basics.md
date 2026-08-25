@@ -8,12 +8,7 @@ date: 2023-10-15T00:00:00.000Z
 contributors:
   - gustonguygermany
   - kde
-description: Using color effectively is a complex and a difficult thing to
-  master that requires a certain skill. However, investing the time required to
-  study will help you create appealing deco. Understanding basic concepts such
-  as using hue, saturation, and value, will greatly help you make appealing and
-  sensible colors for your designs. This guide will teach you the important
-  basics of color.
+description: Using color effectively is a complex and a difficult thing to master that requires a certain skill. However, investing the time required to study will help you create appealing deco. Understanding basic concepts such as using hue, saturation, and value, will greatly help you make appealing and sensible colors for your designs. This guide will teach you the important basics of color.
 tags:
   - Grade 2
   - Light & Color

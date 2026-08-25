@@ -10,9 +10,7 @@ contributors:
   - chuckolate
   - e.clypse
   - naem.less
-description: Duals have a lot of use and versatility in Geometry Dash, yet they
-  can also be some of the most annoying aspects of creating gameplay. This guide
-  explains the types of duals you can create and some interesting uses for them.
+description: Duals have a lot of use and versatility in Geometry Dash, yet they can also be some of the most annoying aspects of creating gameplay. This guide explains the types of duals you can create and some interesting uses for them.
 tags:
   - Grade 1
   - Types of Gameplay

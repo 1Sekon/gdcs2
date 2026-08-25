@@ -7,9 +7,7 @@ weight: 5010
 date: 2024-04-28T00:00:00.000Z
 contributors:
   - komatic5
-description: Objects are the key to all decoration, but learning the fundamental
-  skills for using them can be tricky. This guide explains the basic editor
-  skills you must apply to use objects well in your deco.
+description: Objects are the key to all decoration, but learning the fundamental skills for using them can be tricky. This guide explains the basic editor skills you must apply to use objects well in your deco.
 tags:
   - Grade 1
   - Deco Basics
