@@ -7,7 +7,9 @@ weight: 5010
 date: 2024-04-28T00:00:00.000Z
 contributors:
   - komatic5
-description: Objects are the key to all decoration, but learning the fundamental skills for using them can be tricky. This guide explains the basic editor skills you must apply to use objects well in your deco.
+description: Objects are the key to all decoration, but learning the fundamental
+  skills for using them can be tricky. This guide explains the basic editor
+  skills you must apply to use objects well in your deco.
 tags:
   - Grade 1
   - Deco Basics
@@ -36,7 +38,7 @@ If color or texture were the primary factor, then the Apple logo wouldn’t be r
 
 Shapes help us recognize objects as useful, harmful, or dangerous; you can tell that a button is meant to be poked, while a knife is not. You can tell that a cube should go in a square hole because their shapes match, and you can recognize a cube instantly because it’s one of the simplest shapes out there. All objects are made of simple shapes, so if you can recognize the shapes that make up an object, you can create anything in general.
 
-So to answer the question of “How do I choose proper objects?”: you choose objects by their shape. If you imagine objects as strictly their shapes, decoration becomes a puzzle where you put the right shapes together to create something. Not only that, but your hundreds of puzzle pieces can be rotated, warped, and recolored to fit your vision of the final piece. There are also tons of ways to fill in the puzzle, so you can experiment and mess around as much as you wish. This is the most fundamental part of decoration, and it’s the core of what you’ll be doing from here on.
+So to answer the question of “How do I choose proper objects?”: you choose objects by their shape. If you imagine objects as strictly their shapes, decoration becomes a puzzle where you put the right shapes together to create something. Not only that, but your hundreds of puzzle pieces can be {{< img src="images/GDEmotes/Buttons/RotateButton.png" class="emote" >}} rotated, {{< img src="images/GDEmotes/Buttons/Warp.png" class="emote" >}} warped, and {{< img src="images/GDEmotes/Triggers/Color.png" class="emote" >}} recolored to fit your vision of the final piece. There are also tons of ways to fill in the puzzle, so you can experiment and mess around as much as you wish. This is the most fundamental part of decoration, and it’s the core of what you’ll be doing from here on.
 
 ## Choosing Basic Shapes
 
@@ -50,7 +52,7 @@ Start with the most basic shape an object can take on, and choose an object whic
 
 {{< img src="https://lh3.googleusercontent.com/d/19UU1-jmQGf1U4NyscTJPz1dgSkYYxZbO" >}}
 
-Some objects will have more complex shapes that require some more fiddling to create. An apple isn’t just a circle; it has two “ovals” on the top, and usually becomes more of a triangle or trapezoid at the bottom. You can use the transformations in the Edit tab - especially scaling and warping - to make these more complex shapes. For a trapezoid you could use 3D lines, and for ovals you could stretch out circles.
+Some objects will have more complex shapes that require some more fiddling to create. An apple isn’t just a circle; it has two “ovals” on the top, and usually becomes more of a triangle or trapezoid at the bottom. You can use the transformations in the Edit tab - especially {{< img src="images/GDEmotes/Buttons/ScaleButton.png" class="emote" >}} scaling and {{< img src="images/GDEmotes/Buttons/Warp.png" class="emote" >}} warping - to make these more complex shapes. For a trapezoid you could use 3D lines, and for ovals you could stretch out circles.
 
 {{< img src="https://lh3.googleusercontent.com/d/1MM-S9NYQTaSmdoBcUrgMf3p-1VsWLSfb" >}}
 
@@ -91,7 +93,7 @@ For example, you could make a circle by rotating lines around a center point. Be
 Or, you could make a parabolic curve by combining a bunch of straight lines:
 
 {{< youtube PCYK6TDL9ps >}}
-Using 2.2’s new warping features, you can stretch out the pre-made curves to make larger circles more efficiently:
+Using the warping feature, you can stretch out the pre-made curves to make larger circles more efficiently:
 
 {{< youtube ICk0Th3UEmg >}}
 And finally, you could freehand your curves if you’re patient and want a lot of control:
@@ -114,7 +116,7 @@ You don’t need your shapes to be entirely geometric or entirely organic. Combi
 
 # 3: Setting Object Colors
 
-While shapes are crucial to recognizing objects, colors are also very important as well. I’m sure you can recognize something like the **golden** arches of McDonalds, the **blue** tint of the sky, or the **green** of grass. While you can recognize things with different colors (because of their shapes!) you can tell that something is off; for example, green fire and red water indicate that something has been tampered with to produce that color.
+While shapes are crucial to recognizing objects, {{< img src="images/GDEmotes/Triggers/Color.png" class="emote" >}} colors are also very important as well. I’m sure you can recognize something like the **golden** arches of McDonalds, the **blue** tint of the sky, or the **green** of grass. While you can recognize things with different colors (because of their shapes!) you can tell that something is off; for example, green fire and red water indicate that something has been tampered with to produce that color.
 
 In Geometry Dash, object colors are the same. As you can expect, you start by dissecting the simplest aspects of a shape’s color: how bright it is, the strength of the color, and its hue. You can then emulate these colors in GD by setting a color channel to have that color, then assigning it to your shape. Repeat this process with every shape in your decoration and you will have yourself a good set of colors.
 
@@ -153,7 +155,7 @@ When using blending objects on top of non-blending objects, make sure the non-bl
 
 ## Stacking with Opacity
 
-Opacity makes objects transparent or see-through. This is useful when you want to lower the visibility of an object, such as a gradient or something with blending colors. It is also useful with objects that have complex shapes, like animated objects and some objects from the particle tab.
+{{< img src="images/GDEmotes/Triggers/Alpha.png" class="emote" >}} Opacity makes objects transparent or see-through. This is useful when you want to lower the visibility of an object, such as a gradient or something with blending colors. It is also useful with objects that have complex shapes, like animated objects and some objects from the particle tab.
 
 {{< img src="https://lh3.googleusercontent.com/d/1guo7zHxbA25uaT4eUk-in6jmZ4SAgDUS" >}}
 
