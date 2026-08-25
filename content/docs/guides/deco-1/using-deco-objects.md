@@ -38,7 +38,7 @@ If color or texture were the primary factor, then the Apple logo wouldn’t be r
 
 Shapes help us recognize objects as useful, harmful, or dangerous; you can tell that a button is meant to be poked, while a knife is not. You can tell that a cube should go in a square hole because their shapes match, and you can recognize a cube instantly because it’s one of the simplest shapes out there. All objects are made of simple shapes, so if you can recognize the shapes that make up an object, you can create anything in general.
 
-So to answer the question of “How do I choose proper objects?”: you choose objects by their shape. If you imagine objects as strictly their shapes, decoration becomes a puzzle where you put the right shapes together to create something. Not only that, but your hundreds of puzzle pieces can be rotated, warped, and recolored to fit your vision of the final piece. There are also tons of ways to fill in the puzzle, so you can experiment and mess around as much as you wish. This is the most fundamental part of decoration, and it’s the core of what you’ll be doing from here on.
+So to answer the question of “How do I choose proper objects?”: you choose objects by their shape. If you imagine objects as strictly their shapes, decoration becomes a puzzle where you put the right shapes together to create something. Not only that, but your hundreds of puzzle pieces can be {{< img src="images/GDEmotes/Buttons/RotateButton.png" class="emote" >}} rotated, {{< img src="images/GDEmotes/Buttons/Warp.png" class="emote" >}} warped, and {{< img src="images/GDEmotes/Triggers/Color.png" class="emote" >}} recolored to fit your vision of the final piece. There are also tons of ways to fill in the puzzle, so you can experiment and mess around as much as you wish. This is the most fundamental part of decoration, and it’s the core of what you’ll be doing from here on.
 
 ## Choosing Basic Shapes
 
@@ -116,7 +116,7 @@ You don’t need your shapes to be entirely geometric or entirely organic. Combi
 
 # 3: Setting Object Colors
 
-While shapes are crucial to recognizing objects, colors are also very important as well. I’m sure you can recognize something like the **golden** arches of McDonalds, the **blue** tint of the sky, or the **green** of grass. While you can recognize things with different colors (because of their shapes!) you can tell that something is off; for example, green fire and red water indicate that something has been tampered with to produce that color.
+While shapes are crucial to recognizing objects, {{< img src="images/GDEmotes/Triggers/Color.png" class="emote" >}} colors are also very important as well. I’m sure you can recognize something like the **golden** arches of McDonalds, the **blue** tint of the sky, or the **green** of grass. While you can recognize things with different colors (because of their shapes!) you can tell that something is off; for example, green fire and red water indicate that something has been tampered with to produce that color.
 
 In Geometry Dash, object colors are the same. As you can expect, you start by dissecting the simplest aspects of a shape’s color: how bright it is, the strength of the color, and its hue. You can then emulate these colors in GD by setting a color channel to have that color, then assigning it to your shape. Repeat this process with every shape in your decoration and you will have yourself a good set of colors.
 
@@ -155,7 +155,7 @@ When using blending objects on top of non-blending objects, make sure the non-bl
 
 ## Stacking with Opacity
 
-Opacity makes objects transparent or see-through. This is useful when you want to lower the visibility of an object, such as a gradient or something with blending colors. It is also useful with objects that have complex shapes, like animated objects and some objects from the particle tab.
+{{< img src="images/GDEmotes/Triggers/Alpha.png" class="emote" >}} Opacity makes objects transparent or see-through. This is useful when you want to lower the visibility of an object, such as a gradient or something with blending colors. It is also useful with objects that have complex shapes, like animated objects and some objects from the particle tab.
 
 {{< img src="https://lh3.googleusercontent.com/d/1guo7zHxbA25uaT4eUk-in6jmZ4SAgDUS" >}}
 
