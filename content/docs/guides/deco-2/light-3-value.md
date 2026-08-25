@@ -7,7 +7,12 @@ weight: 8080
 date: 2023-12-15T00:00:00.000Z
 contributors:
   - lifecheck
-description: After a bit of introduction to the mechanics of light and other principles along with it, another thing we can look at is the concept of value. This concept of value is what fundamentally carries the entire lighting process. In this guide we will look at what exactly value is, what the structures surrounding it are, how to tell the range, and how to assign values to lit forms.
+description: After a bit of introduction to the mechanics of light and other
+  principles along with it, another thing we can look at is the concept of
+  value. This concept of value is what fundamentally carries the entire lighting
+  process. In this guide we will look at what exactly value is, what the
+  structures surrounding it are, how to tell the range, and how to assign values
+  to lit forms.
 tags:
   - Grade 2
   - Light & Color
@@ -78,7 +83,7 @@ Before diving into assigning values, you should understand the relationship betw
 
 As you can see, the drawing begins with the “123” grayscale color value chart to map colors to their respective areas. More variations of values are added, then the first bits of colors are introduced using our method of color blending mode and matching the true shade to its greyscale counterpart.
 
-This video goes more in-depth on how Lit Form and other light properties covered in this guide works, so it would be best to watch if this is still difficult to understand. [In-depth Lighting Video](<https://youtu.be/ad20_nSuYYM>) by LifeCheck.
+This [in-depth Lighting video](<https://youtu.be/ad20_nSuYYM>) by LifeCheck details how Lit Form and other light properties covered in this guide works, so it would be best to watch if this is still difficult to understand. 
 
 {{< youtube ad20_nSuYYM >}}
 
