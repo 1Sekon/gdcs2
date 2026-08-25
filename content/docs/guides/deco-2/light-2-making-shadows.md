@@ -171,7 +171,7 @@ These two highlight types can overlap sometimes, such as when the light source i
 
 ## Reflected Light
 
-Light doesn’t just sit still—it bounces off objects and the ground constantly. **Reflected light** is __simply photons that bounce off the ground or other objects and light up your main object__. This is usually most visible in the form and cast shadows, as it makes them less intense over time. You can usually eyeball the construction for this, since it affects the darkness of your shadows and not their actual shape. However, you will be able to explicitly construct these after going through the {{< img src="images/GDEmotes/CustomGuideIcons/IntermediateDeco/light-4-reflections.png" class="emote" >}} Reflections guide.
+Light doesn’t just sit still—it bounces off objects and the ground constantly. **Reflected light** is __simply photons that bounce off the ground or other objects and light up your main object__. This is usually most visible in the form and cast shadows, as it makes them less intense over time. You can usually eyeball the construction for this, since it affects the darkness of your shadows and not their actual shape. However, you will be able to explicitly construct these after reading {{< img src="images/GDEmotes/CustomGuideIcons/IntermediateDeco/light-4-reflections.png" class="emote" >}} [Light 4](https://www.gdcreatorschool.com/docs/guides/deco-2/light-4-reflections/).
 
 {{< img src="https://lh3.googleusercontent.com/d/1Htaq0YeLapdScklHwg-3s8Gd0ONLdkU1" >}}
 
