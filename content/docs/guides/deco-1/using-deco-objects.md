@@ -7,7 +7,9 @@ weight: 5010
 date: 2024-04-28T00:00:00.000Z
 contributors:
   - komatic5
-description: Objects are the key to all decoration, but learning the fundamental skills for using them can be tricky. This guide explains the basic editor skills you must apply to use objects well in your deco.
+description: Objects are the key to all decoration, but learning the fundamental
+  skills for using them can be tricky. This guide explains the basic editor
+  skills you must apply to use objects well in your deco.
 tags:
   - Grade 1
   - Deco Basics
@@ -50,7 +52,7 @@ Start with the most basic shape an object can take on, and choose an object whic
 
 {{< img src="https://lh3.googleusercontent.com/d/19UU1-jmQGf1U4NyscTJPz1dgSkYYxZbO" >}}
 
-Some objects will have more complex shapes that require some more fiddling to create. An apple isn’t just a circle; it has two “ovals” on the top, and usually becomes more of a triangle or trapezoid at the bottom. You can use the transformations in the Edit tab - especially scaling and warping - to make these more complex shapes. For a trapezoid you could use 3D lines, and for ovals you could stretch out circles.
+Some objects will have more complex shapes that require some more fiddling to create. An apple isn’t just a circle; it has two “ovals” on the top, and usually becomes more of a triangle or trapezoid at the bottom. You can use the transformations in the Edit tab - especially {{< img src="images/GDEmotes/Buttons/ScaleButton.png" class="emote" >}} scaling and {{< img src="images/GDEmotes/Buttons/Warp.png" class="emote" >}} warping - to make these more complex shapes. For a trapezoid you could use 3D lines, and for ovals you could stretch out circles.
 
 {{< img src="https://lh3.googleusercontent.com/d/1MM-S9NYQTaSmdoBcUrgMf3p-1VsWLSfb" >}}
 
@@ -91,7 +93,7 @@ For example, you could make a circle by rotating lines around a center point. Be
 Or, you could make a parabolic curve by combining a bunch of straight lines:
 
 {{< youtube PCYK6TDL9ps >}}
-Using 2.2’s new warping features, you can stretch out the pre-made curves to make larger circles more efficiently:
+Using the warping feature, you can stretch out the pre-made curves to make larger circles more efficiently:
 
 {{< youtube ICk0Th3UEmg >}}
 And finally, you could freehand your curves if you’re patient and want a lot of control:
