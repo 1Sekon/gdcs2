@@ -8,7 +8,12 @@ date: 2023-10-15T00:00:00.000Z
 contributors:
   - gustonguygermany
   - kde
-description: Using color effectively is a complex and a difficult thing to master that requires a certain skill. However, investing the time required to study will help you create appealing deco. Understanding basic concepts such as using hue, saturation, and value, will greatly help you make appealing and sensible colors for your designs. This guide will teach you the important basics of color.
+description: Using color effectively is a complex and a difficult thing to
+  master that requires a certain skill. However, investing the time required to
+  study will help you create appealing deco. Understanding basic concepts such
+  as using hue, saturation, and value, will greatly help you make appealing and
+  sensible colors for your designs. This guide will teach you the important
+  basics of color.
 tags:
   - Grade 2
   - Light & Color
@@ -39,7 +44,7 @@ Each of these aspects is demonstrated by the first three sliders in the {{< img 
 
 {{< img src="https://lh3.googleusercontent.com/d/1YG742b1oRKnLXQm4XN-G0xLccbdYGQ07" >}}
 
-It is common for artists to refer only to hue and saturation when talking about color, while value is considered separately. In similar fashion, this guide will only cover the aspects of color theory related to hue and saturation. If you need to learn about value, visit [Light 3](/docs/guides/deco-2/light-3-value/) instead.
+It is common for artists to refer only to hue and saturation when talking about color, while value is considered separately. In similar fashion, this guide will only cover the aspects of color theory related to hue and saturation. If you need to learn about value, visit {{< img src="images/GDEmotes/CustomGuideIcons/IntermediateDeco/light-3-value.png" class="emote" >}} [Light 3](/docs/guides/deco-2/light-3-value/) instead.
 
 # 2: The Color Wheel
 
