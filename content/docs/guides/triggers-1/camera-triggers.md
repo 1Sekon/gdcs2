@@ -120,7 +120,7 @@ Pressing the **Default** button restores the original position between the playe
 
 Not to be confused with the Rotate trigger, the {{< img src="images/GDEmotes/Triggers/CameraRotate.png" class="emote">}} **Rotate Camera** trigger __rotates the camera up to a 360° angle.__
 
-{{< img src="https://lh3.googleusercontent.com/d/1ihKyuIMNJSbfYW5OzYX8qi2B6cMYaINk" >}}
+{{< img src="https://lh3.googleusercontent.com/d/14KHzpiK6klNZAL1NmfBqDuIqmuoANhiF" >}}
 
 The **Degrees** slider modifies the camera's angle. By default, the angle sets the camera’s position, so adding 20° will always shift the camera 20° regardless of the previous rotation. Additionally, if you use an angle that exceeds 360°, the camera can spin multiple times (720° spins the camera clockwise twice).
 
