@@ -8,7 +8,10 @@ date: 2025-06-30T00:00:00.000Z
 contributors:
   - alexunam_777
   - komatic5
-description: Shadow constructions are a crucial part of understanding light. After all, they let you accurately determine where light shines and where it’s blocked, without relying on guesswork. This guide will explain the main principles behind constructing shadows in Geometry Dash.
+description: Shadow constructions are a crucial part of understanding light.
+  After all, they let you accurately determine where light shines and where it’s
+  blocked, without relying on guesswork. This guide will explain the main
+  principles behind constructing shadows in Geometry Dash.
 tags:
   - Grade 2
   - Light & Color
@@ -168,7 +171,7 @@ These two highlight types can overlap sometimes, such as when the light source i
 
 ## Reflected Light
 
-Light doesn’t just sit still—it bounces off objects and the ground constantly. **Reflected light** is __simply photons that bounce off the ground or other objects and light up your main object__. This is usually most visible in the form and cast shadows, as it makes them less intense over time. You can usually eyeball the construction for this, since it affects the darkness of your shadows and not their actual shape. However, you will be able to explicitly construct these after going through the Reflections guide.
+Light doesn’t just sit still—it bounces off objects and the ground constantly. **Reflected light** is __simply photons that bounce off the ground or other objects and light up your main object__. This is usually most visible in the form and cast shadows, as it makes them less intense over time. You can usually eyeball the construction for this, since it affects the darkness of your shadows and not their actual shape. However, you will be able to explicitly construct these after going through the {{< img src="images/GDEmotes/CustomGuideIcons/IntermediateDeco/light-4-reflections.png" class="emote" >}} Reflections guide.
 
 {{< img src="https://lh3.googleusercontent.com/d/1Htaq0YeLapdScklHwg-3s8Gd0ONLdkU1" >}}
 
