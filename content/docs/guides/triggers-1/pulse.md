@@ -8,10 +8,7 @@ date: 2024-01-08T00:00:00.000Z
 contributors:
   - electrifyxd
   - unknown
-description: Pulse Triggers are triggers that change a color channel or group
-  into another color for a set amount of time. A lot of Geometry Dash levels
-  uses pulse triggers to create flashy effects & neat color changes in deco.
-  This guide explains how it works.
+description: Pulse Triggers are triggers that change a color channel or group into another color for a set amount of time. A lot of Geometry Dash levels uses pulse triggers to create flashy effects & neat color changes in deco. This guide explains how it works.
 tags:
   - Grade 1
   - Basic Triggers

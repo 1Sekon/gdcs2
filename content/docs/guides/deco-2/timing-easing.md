@@ -9,11 +9,7 @@ contributors:
   - averageundertalefan
   - sparktwee
   - poryii
-description: "How does a drawing come to life? For every animation movie that
-  you’ve watched and every crazy Geometry Dash effect that you’ve seen, there
-  are individual objects that change positions to simulate life-like movement.
-  For the first animation principles guide, we’ll discuss two principles that
-  communicate an object’s speed and acceleration: Timing and Easing."
+description: "How does a drawing come to life? For every animation movie that you’ve watched and every crazy Geometry Dash effect that you’ve seen, there are individual objects that change positions to simulate life-like movement. For the first animation principles guide, we’ll discuss two principles that communicate an object’s speed and acceleration: Timing and Easing."
 tags:
   - Grade 2
   - Animation

@@ -8,10 +8,7 @@ date: 2025-06-30T00:00:00.000Z
 contributors:
   - alexunam_777
   - komatic5
-description: Shadow constructions are a crucial part of understanding light.
-  After all, they let you accurately determine where light shines and where it’s
-  blocked, without relying on guesswork. This guide will explain the main
-  principles behind constructing shadows in Geometry Dash.
+description: Shadow constructions are a crucial part of understanding light. After all, they let you accurately determine where light shines and where it’s blocked, without relying on guesswork. This guide will explain the main principles behind constructing shadows in Geometry Dash.
 tags:
   - Grade 2
   - Light & Color

@@ -8,10 +8,7 @@ date: 2023-09-30T00:00:00.000Z
 contributors:
   - nikobik0
   - notamoderatr
-description: In this guide, we will explore the benefits of goal-setting and its
-  impact on your level creation process. As we delve into the concept of setting
-  SMART goals, we will discover how these objectives can fuel your passion for
-  crafting captivating levels.
+description: In this guide, we will explore the benefits of goal-setting and its impact on your level creation process. As we delve into the concept of setting SMART goals, we will discover how these objectives can fuel your passion for crafting captivating levels.
 tags:
   - Grade 0
   - Your Mindset

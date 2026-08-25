@@ -8,9 +8,7 @@ date: 2023-03-18T00:00:00.000Z
 contributors:
   - graylasagna
   - unknown
-description: Refresh Rates are an integral part of how Geometry Dash physics
-  work. As such, it's important to understand how refresh rates work when making
-  gameplay.
+description: Refresh Rates are an integral part of how Geometry Dash physics work. As such, it's important to understand how refresh rates work when making gameplay.
 tags:
   - Grade 1
   - Gameplay Features
