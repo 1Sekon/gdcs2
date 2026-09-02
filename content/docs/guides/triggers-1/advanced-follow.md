@@ -23,6 +23,7 @@ tags:
 {{< /callout >}}
 
 ** **
+
 # 1: Basics
 
 Advanced Follow is split into three triggers: **Advanced Follow**, **Edit Adv Follow**, and **Re-Target Adv Follow**. *Note that the last two triggers require an active advanced follow in the level to function.*
@@ -148,4 +149,4 @@ In this video, you can see the particle trails collide with the player, re-targe
 
 # 5: Stacking
 
-Advanced follow triggers are stackable. Activating two at the same time, or one after the other adds the values together and the object will receive a stacked movement. *Note that triggers with different follow types cannot be stacked.* It's simply ignored.
+Advanced follow triggers are stackable, although the way they do so isn't as straightforward as other triggers. This topic is discussed further in the [Stacking Properties](/docs/guides/triggers-2/stacking-properties) guide.
