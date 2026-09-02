@@ -11,6 +11,11 @@ description: In this guide, we’ll outline how you should approach giving and r
 tags:
   - Grade 0
   - Creating Process
+seo:
+  title: How to Ask for Better Feedback in Geometry Dash
+  description: Learn how to ask specific questions, receive useful advice, and get better feedback for your Geometry Dash levels.
+  canonical: ""
+  noindex: false
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

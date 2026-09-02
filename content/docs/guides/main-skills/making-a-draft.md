@@ -12,6 +12,11 @@ contributors:
 tags:
   - Grade 0
   - Creating Process
+seo:
+  title: How to Make Drafts for Your Geometry Dash Levels
+  description: Learn how to make a simple draft or minimum viable product for a Geometry Dash level and use early feedback to improve it.
+  canonical: ""
+  noindex: false
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

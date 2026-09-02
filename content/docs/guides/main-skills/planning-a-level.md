@@ -11,6 +11,11 @@ contributors:
 tags:
   - Grade 0
   - Creating Process
+seo:
+  title: How to Plan a Geometry Dash Level
+  description: Learn how to refine ideas, organize your workflow, manage editor resources, and set a clear scope for a Geometry Dash level.
+  canonical: ""
+  noindex: false
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

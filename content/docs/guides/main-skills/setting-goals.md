@@ -12,6 +12,11 @@ description: In this guide, we will explore the benefits of goal-setting and its
 tags:
   - Grade 0
   - Your Mindset
+seo:
+  title: How to Set Goals for Your Geometry Dash Levels
+  description: Learn how to use SMART goals and smaller milestones to stay motivated and make progress on your Geometry Dash levels.
+  canonical: ""
+  noindex: false
 ---
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 

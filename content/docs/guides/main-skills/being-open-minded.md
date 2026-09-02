@@ -12,6 +12,11 @@ contributors:
 tags:
   - Grade 0
   - Your Mindset
+seo:
+  title: How to Stay Open-Minded and Improve in Geometry Dash
+  description: Learn how to evaluate your work objectively, accept criticism, and stay open-minded while creating Geometry Dash levels.
+  canonical: ""
+  noindex: false
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
