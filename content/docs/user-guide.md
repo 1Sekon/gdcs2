@@ -7,8 +7,8 @@ draft: false
 toc: true
 type: hub
 seo:
-  title: All Guides
-  description: ""
+  title: All GDCS Guides
+  description: Browse every Geometry Dash Creator School guide, ordered from beginner (grade 0), intermediate (grade 1), advanced (grade 2) and expert (grade 3) difficulty.
   canonical: ""
   noindex: false
 ---
@@ -21,6 +21,7 @@ seo:
 </div>
 
 # Beginner (Grade 0)
+
 New to the Geometry Dash editor? Don't worry! You'll find all the info you need to get up to speed.
 
 {{< link-card-img
@@ -35,6 +36,7 @@ New to the Geometry Dash editor? Don't worry! You'll find all the info you need 
   href="/docs/guides/main-skills/getting-ideas" >}}
 
 # Intermediate (Grade 1)
+
 Already got some experience? This section will help you learn more about gameplay, triggers, and decoration.
 
 {{< link-card-img
@@ -54,6 +56,7 @@ Already got some experience? This section will help you learn more about gamepla
   href="/docs/guides/deco-1/using-deco-objects" >}}
 
 # Advanced (Grade 2)
+
 Here's where you'll hone your skills, learning complex subjects like color theory, trigger logic, and game design.
 
 {{< link-card-img

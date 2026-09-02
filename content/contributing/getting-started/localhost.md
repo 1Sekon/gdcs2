@@ -10,6 +10,11 @@ contributors:
   - imtherealimagineiq
 tags:
   - Contributing
+seo:
+  title: How to Run Geometry Dash Creator School Locally
+  description: Learn how to install the required tools, run Geometry Dash Creator School on localhost, and test website changes before submitting them.
+  canonical: ""
+  noindex: false
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

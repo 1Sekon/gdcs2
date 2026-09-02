@@ -7,7 +7,7 @@ toc: false
 type: hub
 seo:
   title: Creator Showcase
-  description: ""
+  description: Explore levels made by Geometry Dash Creator School users.
   canonical: ""
   noindex: false
 ---

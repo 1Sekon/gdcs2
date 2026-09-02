@@ -8,7 +8,7 @@ toc: true
 type: hub
 seo:
   title: Contributing
-  description: ""
+  description: Learn how to contribute to Geometry Dash Creator School, write guides, edit the site, and submit improvements through Git-based workflows.
   canonical: ""
   noindex: false
 ---

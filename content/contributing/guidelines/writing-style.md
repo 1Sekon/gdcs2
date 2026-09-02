@@ -11,6 +11,11 @@ contributors:
   - chuckolate
 tags:
   - Contributing
+seo:
+  title: How to Write Better Geometry Dash Guides
+  description: Learn what makes a good guide and how to plan, structure, refine, and support Geometry Dash Creator School content.
+  canonical: ""
+  noindex: false
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
