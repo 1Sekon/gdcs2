@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 authors:
   - komatic5
 title: Stacking
@@ -13,6 +13,12 @@ tags:
   - Grade 1
   - Trigger Concepts
 ---
+
+{{< callout context="caution" title="This guide is outdated" icon="outline/alert-triangle" >}}
+
+Check the [Stacking Properties](/docs/guides/triggers-2/stacking-properties/) guide for the full version.
+
+{{< /callout >}}
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 
