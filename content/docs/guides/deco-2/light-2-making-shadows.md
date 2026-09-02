@@ -174,8 +174,8 @@ Light doesn’t just sit still—it bounces off objects and the ground constantl
 
 Reflected light is what makes ambient occlusion possible, and it also makes shadows softer as well. Without it, such as in space, shadows are harsh and absolute; with it, you can describe more of a form.
 
-
 # Sources
+
 - How to Render (Scott Robertson), chapters 2 & 4
 - [Why are shadows sharp close to the object but blurry farther](https://physics.stackexchange.com/questions/690831/why-are-shadows-sharp-close-to-the-object-but-blurry-farther)
 - [Eclipses](https://www.astronomy.ohio-state.edu/pogge.1/Ast161/Unit2/eclipses.html)

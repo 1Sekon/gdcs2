@@ -12,12 +12,12 @@ tags:
   - Grade 2
   - Perspective
 ---
+
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 
 - Various pieces of terminology relating to perspective are needed for understanding how to create different types of perspective grids.
 - Scaling objects with a perspective grid requires certain techniques that must be taken into account.
 - Some GD creators try to get creative with perspective in their levels to add depth, and perspective grids make this process much easier.
-
 
 {{< /callout >}}
 
@@ -81,10 +81,8 @@ To create a 2-point perspective grid in Geometry Dash, do the following:
 
 {{< callout context="note" title="Other Perspective Grids" icon="outline/info-circle" >}}
 
-- While 3-point grids are arguably the most dynamic, they are quite difficult to accurately create and can look odd if the horizon line is not near the bottom or top of the picture plane. 
+- While 3-point grids are arguably the most dynamic, they are quite difficult to accurately create and can look odd if the horizon line is not near the bottom or top of the picture plane.
 - Curvilinear, or 5-point, perspective grids can be seen in fisheye-lens photography and are usually not needed in Geometry Dash. However, if you would like to make one, the **Bulge** shader can easily recreate the effect.
-
-
 
 {{< /callout >}}
 

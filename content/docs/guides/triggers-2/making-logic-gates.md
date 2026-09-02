@@ -8,6 +8,7 @@ authors:
 contributors:
   - chuckolate
   - tanhr
+description: Logic gates receive truth values and output a single truth value, making them essential tools for creating conditions. This guide explains the AND, NOT, OR, and XOR gates and how to combine them into more complex trigger setups.
 tags:
   - Grade 2
   - Trigger Setups
@@ -444,4 +445,3 @@ You may notice I actually didn't use any trigger to make the OR gate. That is be
 
 - [Practical Ninjas: Half adder](<https://www.youtube.com/watch?v=thkTzdnkL5U>)
 - [Build Electronic Circuits: Full Adder](<https://www.build-electronic-circuits.com/full-adder/>)
-

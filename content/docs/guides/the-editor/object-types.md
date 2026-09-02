@@ -18,16 +18,14 @@ seo:
   canonical: ""
   noindex: false
 ---
-{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 
 - The Build Tab has 14 different tabs that contain lots of different object types.
 - These object types can be divided into 6 categories that have different uses.
 - Most objects can be put into general tilesets, especially blocks.
 - Out of the 6 categories, Detail Objects contain the most objects.
 - It’s easy to get intimidated by the amount of detail objects when you decorate, so take things slowly.
-
-
 
 {{< /callout >}}
 
@@ -146,4 +144,4 @@ The custom tab allows you to combine lots of other objects into one singular cus
 
 {{< img src="https://lh3.googleusercontent.com/d/1ghSJ-1QYzs21H8jsfZVXI_dSN37Z5st-" >}}
 
-**\*Note:** these are just my saved assets, yours will probably look different.*
+***Note:** these are just my saved assets, yours will probably look different.*

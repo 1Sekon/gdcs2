@@ -13,15 +13,13 @@ tags:
   - Grade 2
   - Light & Color
 ---
-{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 
 - Colors are represented by Hue, Saturation, and Value.
 - Hue is normally the Main color, Saturation is a term for how pure the color is and Value is the brightness of the color.
 - The Color Wheel contains the colors of the rainbow and can help you to decide what colors you want to use.
 - A common method to render colored objects under colored light is to locate them as points on the color wheel and connect them with a line.
-
-
 
 {{< /callout >}}
 
