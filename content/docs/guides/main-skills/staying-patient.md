@@ -14,6 +14,11 @@ description: Geometry Dash is a challenging game that requires a lot of skill an
 tags:
   - Grade 0
   - Your Mindset
+seo:
+  title: How to Stay Patient While Creating in Geometry Dash
+  description: Learn why patience matters when creating Geometry Dash levels and how to handle setbacks.
+  canonical: ""
+  noindex: false
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

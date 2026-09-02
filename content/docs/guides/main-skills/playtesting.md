@@ -12,6 +12,11 @@ description: Playtesting is crucial for all types of levels, even if they don't 
 tags:
   - Grade 0
   - Community Work
+seo:
+  title: How to Playtest a Geometry Dash Level
+  description: Learn how to playtest Geometry Dash levels, find gameplay and decoration problems, and use feedback to refine your work.
+  canonical: ""
+  noindex: false
 ---
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 

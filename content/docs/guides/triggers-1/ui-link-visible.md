@@ -3,6 +3,11 @@ draft: false
 authors:
   - delts1550
 title: UI & Link Visible
+seo:
+  title: How to Use UI and Link Visible Triggers in Geometry Dash
+  description: Learn how UI and Link Visible triggers control interface elements and object visibility in Geometry Dash.
+  canonical: ""
+  noindex: false
 weight: 3470
 date: 2024-01-21T00:00:00.000Z
 contributors:

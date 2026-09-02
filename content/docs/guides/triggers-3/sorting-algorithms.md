@@ -3,6 +3,11 @@ draft: true
 authors:
   - v1ewsh0t
 title: Sorting Algorithms
+seo:
+    title: Sorting Algorithms for Geometry Dash
+    description: Learn how sorting algorithms work and how they can organize data in advanced Geometry Dash trigger systems.
+    canonical: ""
+    noindex: false
 weight: 9110
 date: 2026-07-21T00:00:00.000Z
 contributors:

@@ -1,6 +1,11 @@
 ---
 draft: false
 title: On Death
+seo:
+  title: How to Use the On Death Trigger in Geometry Dash
+  description: Learn how the On Death trigger detects player deaths and activates events in Geometry Dash levels.
+  canonical: ""
+  noindex: false
 weight: 3350
 date: 2023-03-14T00:00:00.000Z
 description: The On Death trigger is another condition trigger. It activates other triggers like the Spawn trigger, but only when the player dies. This guide will explain how to use it.

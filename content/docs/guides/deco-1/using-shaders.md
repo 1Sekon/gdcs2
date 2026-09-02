@@ -3,6 +3,11 @@ draft: false
 authors:
   - poryii
 title: Using Shaders
+seo:
+  title: How to Use Shaders in Geometry Dash
+  description: Learn how shaders work in Geometry Dash and how to use them to create visual effects and enhance the atmosphere of your levels.
+  canonical: ""
+  noindex: false
 weight: 5125
 date: 2026-03-29T00:00:00.000Z
 contributors:

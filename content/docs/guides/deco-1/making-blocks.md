@@ -1,9 +1,14 @@
 ---
 draft: false
 title: Making Blocks
+seo:
+  title: How to Make Custom Blocks in Geometry Dash
+  description: Learn how to make custom blocks in Geometry Dash using the block design process.
+  canonical: ""
+  noindex: false
 weight: 5080
 date: 2023-03-18T00:00:00.000Z
-description: Block designs are usually a major roadblock for beginner creators, as you have to make *lots* of them and there's a lot to consider. This guide will help you simplify the block design process down to a few easy steps.
+description: Block designs are usually a major roadblock for beginner creators, as you have to make lots of them and there's a lot to consider. This guide will help you simplify the block design process down to a few easy steps.
 authors:
   - komatic5
 contributors:
@@ -22,6 +27,7 @@ tags:
 {{< /callout >}}
 
 ** **
+
 # 1: Structuring Blocks
 
 The first step of making any deco is laying down a basic structure or shape. With blocks, you need to remember that they have hitboxes. They play a part in gameplay, so the player will interact with them. Many times they’ll also have spikes or other hazards on them. This means you can’t just make any random shape for your blocks; they must have a clear platform that the player knows they can land on.

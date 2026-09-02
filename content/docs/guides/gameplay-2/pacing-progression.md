@@ -3,6 +3,11 @@ draft: false
 authors:
   - komatic5
 title: Pacing 1 (Basics)
+seo:
+  title: What Is Pacing in Geometry Dash?
+  description: Learn how pacing and progression change gameplay elements over time and how they shape player attention and flow in Geometry Dash levels.
+  canonical: ""
+  noindex: false
 weight: 7070
 date: 2023-06-26T00:00:00.000Z
 contributors:

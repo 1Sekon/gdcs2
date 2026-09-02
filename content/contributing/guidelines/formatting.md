@@ -12,6 +12,11 @@ contributors:
   - chuckolate
 tags:
   - Contributing
+seo:
+  title: How to Format Guides for Geometry Dash Creator School
+  description: Learn how to structure guide content with frontmatter, Markdown, HTML, shortcodes, and standard components for Geometry Dash Creator School.
+  canonical: ""
+  noindex: false
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

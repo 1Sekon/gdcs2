@@ -3,6 +3,11 @@ draft: false
 authors:
   - themilkcat_tmc
 title: Random & Advanced Random
+seo:
+  title: How to Use Random Triggers in Geometry Dash
+  description: Learn how Random and Advanced Random triggers work in Geometry Dash.
+  canonical: ""
+  noindex: false
 weight: 3400
 date: 2023-04-07T00:00:00.000Z
 contributors:

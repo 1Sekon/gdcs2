@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Time, Time Event, & Time Control
+seo:
+  title: How to Use Time Triggers in Geometry Dash
+  description: Learn how Time, Time Event, and Time Control triggers track time and activate timed events in Geometry Dash.
+  canonical: ""
+  noindex: false
 weight: 3460
 date: 2024-02-11T00:00:00.000Z
 description: This guide explains how the Time, Time Event, & Time Control triggers works. They let you create and control timers in-game.

@@ -3,6 +3,11 @@ draft: false
 authors:
   - intercomprehensible
 title: Game Design 1 (Level Design)
+seo:
+  title: What Is Level Design in Geometry Dash?
+  description: Learn the fundamentals of level design and how to shape player behavior and experience when building complex Geometry Dash gameplay.
+  canonical: ""
+  noindex: false
 weight: 7180
 date: 2025-01-14T00:00:00.000Z
 contributors:
@@ -26,16 +31,21 @@ tags:
 {{< /callout >}}
 
 ** **
+
 # 1: What is Level Design?
 
 Level design has a few crucial components to it, the most important of which is a **level**. These are spaces where the player can interact with their environment. For instance, a board is the level for a board game, and a Geometry Dash level is the space itself. Levels are the most important part of a game; without them there wouldn’t even be any game to play, just rules with no actual setting.
 
 A good way to visualize levels is with a football field. The field falls under the definition of a level; the whole game happens inside the field, and it’s the space where all the players can interact with each other and the ball. Football is designed with the field in mind, and the field is designed around the game.
+
 ## Why is level design important?
+
 Level Design can influence the players’ *decisions* and *choices*, and guide them along the path set by the designer. It also greatly influences the player’s *emotions*, and can complement other seemingly unrelated concepts, such as decoration or theming.
 
 Level design is also important because it makes up the majority of the gameplay and influences the feel of the game in general. As such, mistakes in level design are usually quite obvious and worsen the overall experience.
+
 ## Types of level design
+
 Level design generally has two main parts, being Room and World Design.
 
 **Room Design** focuses on smaller spaces known as rooms. Designers usually design these rooms around principles like objectives and progression, to create a satisfying product. Most rooms can be likened to *puzzles*, as they follow a sequence of steps that are used to reach an end goal.
@@ -131,6 +141,7 @@ As mentioned before, **World Design** is the practice of designing larger areas 
 When designing large areas, it’s crucial to think about how players will see certain features in your gameplay. Keeping this in mind can help you direct players towards or away from certain spots, and make your areas more cohesive.
 
 There are many ways of influencing how the player perceives your world design, but here are a few useful ones to start with.
+
 **Occlusion**: Keeping the player away from certain areas by hiding them behind seemingly unimportant objects. This could include hiding things like small cabins behind a thick mass of trees, or hiding the entrance to a secret area and placing more interesting-looking features further from it.
 
 You can also do the opposite of occlusion, and make objects seem important by proudly displaying them on their own. Placing a house in the middle of an empty landscape will grab the players attention, making them think the house is important.
@@ -170,7 +181,9 @@ This can make your area feel more realistic, and it greatly changes how players 
 {{< img src="https://lh3.googleusercontent.com/d/144iXhc8DK57-7btPub6jCbkAyrVqpKLO" >}}
 
 Regardless of the design patterns you use, it’s important to get feedback and playtesters for your areas when designing your gameplay. These decisions can have major impacts on how your gameplay is experienced, so it’s important to use them with purpose.
+
 ## Exploration & Incentives
+
 Exploration is an important part of world design; after all, you want the player to experience everything your gameplay has to offer. To put it simply, **exploration** is how much the player is motivated to search your world. You’ll want them to naturally be interested in exploring, and have fun while doing so. Not all worlds will require exploration, but it’s still important to consider in your design process.
 
 The most important tactic for fueling exploration is through **incentives**. These are rewards and motivations the player can encounter in your area, such as currency, new abilities, or achievements. Incentives are basically a morale boost for players, a push they need to keep searching for rewards elsewhere. You can basically turn anything into an incentive, although some work better than others; if the player must do a hard task to get something, reward them with a bigger incentive.
@@ -225,6 +238,7 @@ For example, in Flipswap Factory by zejoant, the main gimmick features platforms
 {{< youtube fj48fuVPsug >}}
 
 ## Pacing
+
 As you should know from the Pacing guide, this is how you control the gameplay’s tempo and order of events. Pacing will affect the difficulty you choose for the rooms in an area, as well as the area’s difficulty relative to the whole level. Each room in an area is equivalent to a pacing beat, or an event the player experiences.
 
 When designing your gameplay areas, you’ll need to design high-intensity rooms and lower intensity rooms depending on how you plan your pacing. You can arrange these rooms however you wish, although there are a few conventional ways to do so. You can use a **Pile of Beats**, where you make a large amount of rooms separately and connect them afterwards, or you can **Teach, Test, & Twist** where you introduce a technique in one room, test it in the next, and add a twist in a third.
@@ -234,7 +248,9 @@ Regardless of how you organize your gameplay beats, make sure the gameplay at th
 # 4: Advanced Techniques
 
 By this point, you should generally understand all the major techniques used for level design. There are a few additional techniques you can use to elevate your gameplay design even further, but these are optional. It’s advised to tackle these once you’re comfortable with the other topics in this guide.
+
 ## Node Based Mapping
+
 This is a way to efficiently plan out areas. **Nodes** are specific points around an area which players can visit, with larger nodes being more important decisions and points of interest. You can also place nodes together, making **spatial clusters** - patterns the player can analyze when reading a map. Not only do nodes help make physical gameplay paths less linear, but they can also be used with interactive stories to make them far more interesting.
 
 Think of Node Based Mapping as creating the paths for one or many areas. When designing the area, you’ll employ a variety of nodes to work around the player’s potential paths, as follows:
@@ -275,4 +291,3 @@ Finally, it’s helpful to keep **dynamism** in mind when making environments. J
 - Staffs Games Institute: Introduction to Puzzle Design (Basic Principles, Player Knowledge Considerations, and Setting Gameplay Objectives)
 
 {{< youtube dVjibdYG4bs >}}
-

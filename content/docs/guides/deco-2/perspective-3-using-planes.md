@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Perspective 3 (Using Planes)
+seo:
+  title: How to Use Planes in Geometry Dash Perspective
+  description: Learn how planes help define perspective when building Geometry Dash decoration.
+  canonical: ""
+  noindex: false
 date: 2024-05-31T00:00:00.000Z
 weight: 8220
 description: The prior perspective guides explained the basics of how to use it, but it's time to move onto the more advanced topics. This guide will introduce you to the various means of making and using 2D planes, which are crucial for complex perspective later on.

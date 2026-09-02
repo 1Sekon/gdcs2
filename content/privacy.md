@@ -7,8 +7,8 @@ lastmod: 2026-06-23T15:19:07.000Z
 draft: false
 type: legal
 seo:
-  title: ""
-  description: ""
+  title: Geometry Dash Creator School Privacy Policy
+  description: Geometry Dash Creator School's policy for data collection, usage, and protection.
   canonical: ""
   noindex: false
 ---

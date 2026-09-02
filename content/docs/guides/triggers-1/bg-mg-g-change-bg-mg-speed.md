@@ -3,6 +3,11 @@ draft: false
 authors:
   - eyz
 title: BG/MG/G Change & BG/MG Speed
+seo:
+  title: How to Use BG, MG, and G Triggers in Geometry Dash
+  description: Learn how to change backgrounds, middlegrounds, and ground layers and control their speed with Geometry Dash triggers.
+  canonical: ""
+  noindex: false
 weight: 3470
 date: 2024-01-21T00:00:00.000Z
 contributors:

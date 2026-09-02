@@ -3,6 +3,11 @@ draft: false
 authors:
   - eyz
 title: GP Options & Player Control
+seo:
+  title: How to Use Player Control Triggers in Geometry Dash
+  description: Learn how GP Options and Player Control triggers change movement and player behavior in Geometry Dash gameplay.
+  canonical: ""
+  noindex: false
 weight: 3320
 date: 2024-01-25T00:00:00.000Z
 contributors:

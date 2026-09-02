@@ -3,6 +3,11 @@ draft: false
 authors:
   - interestex
 title: Game Design 2 (Movement Design)
+seo:
+  title: How to Design Better Movement in Geometry Dash
+  description: Learn the fundamentals of movement design and how responsive, enjoyable movement can improve immersion and gameplay in Geometry Dash.
+  canonical: ""
+  noindex: false
 weight: 7190
 date: 2024-11-30T00:00:00.000Z
 contributors:

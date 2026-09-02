@@ -4,6 +4,11 @@ authors:
   - xplode09
   - sparktwee
 title: Gameplay Objects
+seo:
+  title: Every Gameplay Object in Geometry Dash Explained
+  description: Learn how gameplay objects work in Geometry Dash Classic and Platformer Mode and how they add variety to your levels.
+  canonical: ""
+  noindex: false
 weight: 4020
 date: 2025-01-16T00:00:00.000Z
 contributors:

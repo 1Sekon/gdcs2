@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Color 5 (Human Perception)
+seo:
+  title: How Human Color Perception Affects Geometry Dash Decoration
+  description: Learn how people process and perceive color and how you can apply that knowledge.
+  canonical: ""
+  noindex: false
 date: 2024-05-31T00:00:00.000Z
 weight: 8050
 description: This guide is all about how we process and perceive colors. This content is optional for understanding more about colors, but it does contain interesting information which you can still apply sooner or later.

@@ -15,6 +15,11 @@ contributors:
 tags:
   - Grade 0
   - Your Mindset
+seo:
+  title: What Is a Growth Mindset in Geometry Dash?
+  description: Learn how a growth mindset can help you handle mistakes, stay motivated, and improve your Geometry Dash creating skills.
+  canonical: ""
+  noindex: false
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Event Link
+seo:
+  title: How to Use The Event Trigger in Geometry Dash
+  description: Learn how to use the Event trigger in Geometry Dash.
+  canonical: ""
+  noindex: false
 weight: 3380
 date: 2024-01-25T00:00:00.000Z
 description: This guide explains how the Event Link trigger works. It lets you spawn groups based on certain player actions and events.

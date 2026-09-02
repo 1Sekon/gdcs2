@@ -3,6 +3,11 @@ draft: false
 authors:
   - komatic5
 title: Making Air Deco
+seo:
+  title: How to Make Air Deco in Geometry Dash
+  description: Learn how to create air decoration in Geometry Dash and use objects & effects to fill empty space.
+  canonical: ""
+  noindex: false
 weight: 5100
 date: 2023-03-18T00:00:00.000Z
 contributors:

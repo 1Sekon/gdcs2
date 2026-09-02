@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Area Triggers
+seo:
+  title: How to Use Area Triggers in Geometry Dash
+  description: Learn all the basics of Area Triggers.
+  canonical: ""
+  noindex: false
 weight: 3180
 date: 2024-04-03T00:00:00.000Z
 description: Area Triggers are a new collection of complex triggers with many interesting applications. This guide explains how to use them.

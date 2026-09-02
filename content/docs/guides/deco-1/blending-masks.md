@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Blending Masks
+seo:
+  title: How to Use Masks in Geometry Dash Part 2
+  description: Learn how to make blending masks in Geometry Dash and how to use them to combine objects and create more advanced decoration.
+  canonical: ""
+  noindex: false
 date: 2023-10-13T00:00:00.000Z
 weight: 5160
 description: Color blending (also known as additive blending) is a way of combining colors together. A versatile tool and an integral part of creating, it has many uses in the editor. In this guide, we'll explore how blending can be used to make a variety of powerful masks.

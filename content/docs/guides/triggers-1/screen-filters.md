@@ -3,6 +3,11 @@ draft: false
 authors:
   - tdp9
 title: Screen Filters
+seo:
+  title: How to Use Shaders in Geometry Dash
+  description: Learn how to use all shaders in Geometry Dash.
+  canonical: ""
+  noindex: false
 weight: 3220
 date: 2024-03-11T00:00:00.000Z
 contributors:

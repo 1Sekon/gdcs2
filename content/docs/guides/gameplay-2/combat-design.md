@@ -3,6 +3,11 @@ draft: false
 authors:
   - illusion2
 title: Game Design 3 (Combat Design)
+seo:
+  title: How to Design Combat in Geometry Dash
+  description: Learn how to design engaging combat systems, attacks, enemy encounters, progression, and strategy for Geometry Dash levels.
+  canonical: ""
+  noindex: false
 weight: 7200
 date: 2024-09-06T00:00:00.000Z
 contributors:

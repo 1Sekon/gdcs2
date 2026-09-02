@@ -3,6 +3,11 @@ draft: false
 authors:
   - illusion2
 title: Using Gamemodes
+seo:
+  title: How to Use Every Gamemode in Geometry Dash
+  description: Learn how each Geometry Dash gamemode works and how to choose gamemodes with purpose when designing your level's gameplay.
+  canonical: ""
+  noindex: false
 weight: 4010
 date: 2025-03-01T00:00:00.000Z
 description: Choosing gamemodes and gameplay elements for your levels is an important process, but one which many people mess up nonetheless. This guide will prepare you to use gamemodes properly.

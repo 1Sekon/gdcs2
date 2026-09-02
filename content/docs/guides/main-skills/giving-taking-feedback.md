@@ -12,6 +12,11 @@ contributors:
 tags:
   - Grade 0
   - Community Work
+seo:
+  title: How to Give and Receive Feedback in Geometry Dash
+  description: Learn how to give constructive feedback, explain your reasoning, and respond to feedback on Geometry Dash levels.
+  canonical: ""
+  noindex: false
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

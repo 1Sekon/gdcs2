@@ -13,7 +13,10 @@ tags:
   - Grade 2
   - Sound Design
 seo:
+  title: How to Use Post-Processing for Geometry Dash Sounds
+  description: Learn how to use distortion, delays, reverb, compression, and other effects to refine and transform Geometry Dash sound effects.
   canonical: post-processing
+  noindex: false
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

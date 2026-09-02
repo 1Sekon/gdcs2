@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Scale
+seo:
+  title: How to Use the Scale Trigger in Geometry Dash
+  description: Learn how the Scale trigger works in Geometry Dash.
+  canonical: ""
+  noindex: false
 weight: 3100
 date: 2024-02-04T00:00:00.000Z
 description: This guide explains how the Scale trigger works. It helps scale objects up and down.

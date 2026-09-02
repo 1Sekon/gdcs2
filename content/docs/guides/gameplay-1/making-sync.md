@@ -3,6 +3,11 @@ draft: false
 authors:
   - e.clypse
 title: Making Sync
+seo:
+  title: How to Make Gameplay Sync in Geometry Dash
+  description: Learn how to create sync in Geometry Dash using editor tools, player inputs, movement, and the important parts of a song.
+  canonical: ""
+  noindex: false
 weight: 4140
 date: 2025-01-14T00:00:00.000Z
 contributors:

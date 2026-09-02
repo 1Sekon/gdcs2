@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Song & Edit Song
+seo:
+  title: How to Use Song Triggers in Geometry Dash
+  description: Learn how Song and Edit Song triggers control songs and their properties in Geometry Dash levels.
+  canonical: ""
+  noindex: false
 weight: 3321
 date: 2024-01-07T00:00:00.000Z
 description: This guide explains how the Song & Edit Song triggers work.

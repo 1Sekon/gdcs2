@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Follow & Follow Player Y
+seo:
+  title: How to Use Follow Triggers in Geometry Dash
+  description: Learn how Follow and Follow Player Y triggers move objects relative to other objects or the player in Geometry Dash levels.
+  canonical: ""
+  noindex: false
 weight: 3090
 date: 2024-01-08T00:00:00.000Z
 description: The Follow & Follow Player Y triggers let you copy movements from a group or the player onto another group. This guide explains how to use both.

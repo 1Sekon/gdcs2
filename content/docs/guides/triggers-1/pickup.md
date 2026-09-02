@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Pickup
+seo:
+  title: How to Use the Pickup Trigger & Counter Object in Geometry Dash
+  description: Learn how to use Pickup trigger to modify item values, and how to use and the Counter object to display them.
+  canonical: ""
+  noindex: false
 weight: 3430
 date: 2024-01-19T00:00:00.000Z
 description: The pickup trigger is primarily used for counting things up, which can be applied in both trigger or object form. This guide will investigate the main functions of the Pickup Trigger and how these features can be utilized.

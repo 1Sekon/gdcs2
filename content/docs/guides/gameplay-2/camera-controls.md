@@ -15,6 +15,8 @@ tags:
 seo:
   canonical: camera-controls
   title: How to Use Cameras in Geometry Dash
+  description: Learn how to use Geometry Dash camera controls to convey vibes and scale while improving gameplay through padding and framing.
+  noindex: false
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

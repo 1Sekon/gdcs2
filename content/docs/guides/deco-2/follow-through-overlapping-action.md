@@ -3,6 +3,11 @@ draft: false
 authors:
   - asandboxer
 title: Animation 3 (Follow Through & Overlapping Action)
+seo:
+  title: How to Use Follow-Through and Overlapping Action in Geometry Dash
+  description: Learn how follow-through and overlapping action create more natural, dynamic, and convincing animations in Geometry Dash levels.
+  canonical: ""
+  noindex: false
 weight: 8110
 date: 2025-04-30T00:00:00.000Z
 contributors:

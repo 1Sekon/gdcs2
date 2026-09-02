@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Low Detail Mode
+seo:
+  title: How to Use Low Detail Mode in Geometry Dash
+  description: Learn how Low Detail Mode affects Geometry Dash decoration and how to make your levels more accessible to low-end devices.
+  canonical: ""
+  noindex: false
 weight: 5036
 date: 2025-06-29T00:00:00.000Z
 description: After building a level, you can have some of the coolest visual effects known in the editor, but only the high tech players may get to experience it. Obviously, it's up to creators to decide if accessibility is a priority for them, but if it resonates with you, keep reading. This guide will discuss how and when to set up low detail modes (LDM) and optimize your details.

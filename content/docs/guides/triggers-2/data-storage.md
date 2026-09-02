@@ -3,6 +3,11 @@ draft: false
 authors:
   - v1ewsh0t
 title: Data Storage
+seo:
+  title: How to Store Data in Geometry Dash
+  description: Learn how to store, update, and use data in Geometry Dash trigger systems for more advanced level mechanics.
+  canonical: ""
+  noindex: false
 weight: 6140
 date: 2024-07-31T00:00:00.000Z
 contributors:

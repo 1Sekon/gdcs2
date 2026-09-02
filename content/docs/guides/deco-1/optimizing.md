@@ -3,6 +3,11 @@ draft: false
 authors:
   - komatic5
 title: Optimizing
+seo:
+  title: How to Optimize Geometry Dash Decoration
+  description: Learn how to optimize Geometry Dash levels by reducing unnecessary objects and improving performance without sacrificing visual quality.
+  canonical: ""
+  noindex: false
 weight: 5130
 date: 2023-06-26T00:00:00.000Z
 contributors:

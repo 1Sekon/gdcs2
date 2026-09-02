@@ -3,6 +3,11 @@ draft: false
 authors:
   - theibra
 title: Using Remap Properties
+seo:
+  title: How to Use Remap Properties in Geometry Dash
+  description: Learn how remap properties change how IDs are interpreted and how to use them in advanced Geometry Dash systems.
+  canonical: ""
+  noindex: false
 weight: 6040
 date: 2024-07-31T00:00:00.000Z
 description: Spawn Remapping is an incredibly useful 2.2 feature which lets you change which groups are targeted by a trigger setup, without having to copy-paste all of the triggers. However it also has many hidden properties which make it even more useful. This guide will explain those features and show some of their use cases.
@@ -29,7 +34,7 @@ contributors:
 
 ## Abstraction
 
-Spawn remapping applies to every type of ID, not just groups. ItemIDs, Color Channels, BlockIDs, and so on, can all be remapped. As of Update 2.208, the are a few exceptions to this, which you can check [here](https://uhdanke.github.io/gd_docs/bugs/spawn_triggers#triggers-that-are-not-remappable-or-not-fully-remappable). 
+Spawn remapping applies to every type of ID, not just groups. ItemIDs, Color Channels, BlockIDs, and so on, can all be remapped. As of Update 2.208, the are a few exceptions to this, which you can check [here](https://uhdanke.github.io/gd_docs/bugs/spawn_triggers#triggers-that-are-not-remappable-or-not-fully-remappable).
 
 However for this to work, each ID type must have a unique OriginalID when remapping. In the example below, I could use Color Channel 1, Group 2, and BlockID 3, but not both Color Channel 1 and BlockID 1.
 

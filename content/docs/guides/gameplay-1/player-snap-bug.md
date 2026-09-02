@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Player Snap Bug
+seo:
+  title: What Is the Player Snap Bug in Geometry Dash?
+  description: Learn how the Geometry Dash player snap bug works, how it can separate duals, and how to use it effectively in gameplay.
+  canonical: ""
+  noindex: false
 weight: 4240
 date: 2023-11-30T00:00:00.000Z
 description: Player snapping is a bug which is used frequently for separating duals, but has a lot of use cases beyond that. This guide explains how you can use the Snap Bug to its full effectiveness.

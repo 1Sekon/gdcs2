@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Advanced Follow
+seo:
+  title: How to Use Advanced Follow Triggers in Geometry Dash
+  description: Learn how Advanced Follow triggers control object movement and create more complex follow effects in Geometry Dash.
+  canonical: ""
+  noindex: false
 weight: 3120
 date: 2024-01-08T00:00:00.000Z
 description: The Advanced Follow trigger is a highly customizable trigger with lots of parameters, having lots of useful and powerful capabilities. This guide explains how to it, alongside Edit Adv Follow and Re-Target Adv Follow.
@@ -23,6 +28,7 @@ tags:
 {{< /callout >}}
 
 ** **
+
 # 1: Basics
 
 Advanced Follow is split into three triggers: **Advanced Follow**, **Edit Adv Follow**, and **Re-Target Adv Follow**. *Note that the last two triggers require an active advanced follow in the level to function.*
@@ -148,4 +154,4 @@ In this video, you can see the particle trails collide with the player, re-targe
 
 # 5: Stacking
 
-Advanced follow triggers are stackable. Activating two at the same time, or one after the other adds the values together and the object will receive a stacked movement. *Note that triggers with different follow types cannot be stacked.* It's simply ignored.
+Advanced follow triggers are stackable, although the way they do so isn't as straightforward as other triggers. This topic is discussed further in the [Stacking Properties](/docs/guides/triggers-2/stacking-properties) guide.

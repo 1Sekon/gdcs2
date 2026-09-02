@@ -3,6 +3,11 @@ draft: false
 authors:
   - kde
 title: Color 2 (Using Colors)
+seo:
+  title: How to Use Colors in Geometry Dash Decoration
+  description: Learn how to choose and apply colors in Geometry Dash to create appealing decoration.
+  canonical: ""
+  noindex: false
 weight: 8020
 date: 2023-11-30T00:00:00.000Z
 contributors:

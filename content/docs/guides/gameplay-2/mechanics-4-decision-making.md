@@ -3,6 +3,11 @@ draft: false
 authors:
   - intercomprehensible
 title: Mechanics 4 (Decision-Making)
+seo:
+  title: How to Design Gameplay Decisions in Geometry Dash
+  description: Learn how to design choices, tradeoffs, strategy, and risk-versus-reward situations that make Geometry Dash gameplay more compelling.
+  canonical: ""
+  noindex: false
 weight: 7040
 date: 2025-03-01T00:00:00.000Z
 contributors:

@@ -3,6 +3,11 @@ draft: false
 authors:
   - illusion2
 title: Mechanics 5 (Limitations & Strategy)
+seo:
+  title: How to Use Limitations to Design Strategy in Geometry Dash
+  description: Learn how limitations shape strategic mechanics and gameplay, and how to use constraints to make Geometry Dash systems more interesting.
+  canonical: ""
+  noindex: false
 weight: 7050
 date: 2024-10-15T00:00:00.000Z
 contributors:

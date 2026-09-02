@@ -3,6 +3,11 @@ draft: false
 authors:
   - komatic5
 title: Using Deco Objects
+seo:
+  title: How to Use Decoration Objects in Geometry Dash
+  description: Learn how to choose and use decoration objects in Geometry Dash to build detailed, readable, and interesting levels.
+  canonical: ""
+  noindex: false
 weight: 5010
 date: 2024-04-28T00:00:00.000Z
 contributors:
@@ -171,6 +176,6 @@ Finally, note that you can use low opacity copies of objects to create blurred s
 
 {{< youtube UoXnI6ni1ww >}}
 
-**Video:** 
+**Video:**
 
 {{< youtube 3ofZI82lKQ8 >}}

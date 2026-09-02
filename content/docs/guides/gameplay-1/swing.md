@@ -1,6 +1,11 @@
 ---
 draft: true
 title: Swing
+seo:
+  title: How to Make Swing Gameplay in Geometry Dash
+  description: Learn how the Swing gamemode moves, which gameplay styles suit it best, and how to use portals, orbs, and gravity creatively.
+  canonical: ""
+  noindex: false
 weight: 4210
 date: 2024-10-31T00:00:00.000Z
 description: This guide will explain practices and general techniques to making Swing gameplay.

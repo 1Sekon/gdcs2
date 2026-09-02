@@ -3,6 +3,11 @@ draft: false
 authors:
   - komatic5
 title: Pacing 2 (Progression)
+seo:
+  title: How to Use Progression in Geometry Dash Levels
+  description: Learn how to vary difficulty, intensity, and gimmicks across an entire Geometry Dash level to keep players engaged and in flow.
+  canonical: ""
+  noindex: false
 weight: 7070
 date: 2023-06-26T00:00:00.000Z
 contributors:

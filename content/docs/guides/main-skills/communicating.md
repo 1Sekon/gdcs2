@@ -11,6 +11,11 @@ description: Speaking clearly is a crucial part of working with others and getti
 tags:
   - Grade 0
   - Community Work
+seo:
+  title: How to Communicate Better in Geometry Dash
+  description: Learn how to communicate clearly with collaborators, playtesters, and other creators while working on Geometry Dash levels.
+  canonical: ""
+  noindex: false
 ---
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 

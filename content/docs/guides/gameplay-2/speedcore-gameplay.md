@@ -3,6 +3,11 @@ draft: true
 authors:
   - illusion2
 title: Speedcore Gameplay
+seo:
+  title: How to Make Speedcore Gameplay in Geometry Dash
+  description: Learn how to create fast, intense Speedcore gameplay in Geometry Dash by representing the song, emphasizing movement, and varying click patterns.
+  canonical: ""
+  noindex: false
 weight: 7120
 date: 2024-05-15T00:00:00.000Z
 contributors:

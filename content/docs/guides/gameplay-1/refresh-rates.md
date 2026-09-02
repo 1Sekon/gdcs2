@@ -3,6 +3,11 @@ draft: false
 authors:
   - unknown
 title: Refresh Rates
+seo:
+  title: How Refresh Rates Affect Geometry Dash Gameplay
+  description: Learn what refresh rates are, how they affect Geometry Dash physics and inputs, and why you should test gameplay on multiple devices.
+  canonical: ""
+  noindex: false
 weight: 4230
 date: 2023-03-18T00:00:00.000Z
 contributors:
@@ -15,15 +20,11 @@ tags:
 ---
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 
-
 - The refresh rate is the rate at which your monitor displays new frames. Different refresh rates have different effects on GD’s physics.
 - Higher refresh rates lead to more accurate inputs and generally make the game easier to play.
 - The introduction of new refresh rates can change how the game functions during play, giving way to bugs. Always make sure you playtest your gameplay on multiple refresh rates to mitigate this.
 
-
 {{< /callout >}}
-
-
 
 - - -
 

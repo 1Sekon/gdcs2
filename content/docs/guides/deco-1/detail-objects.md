@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Detail Objects
+seo:
+  title: How to Use Detail Objects in Geometry Dash
+  description: Learn how detail objects work in Geometry Dash and how to use them to add depth, texture, and visual interest to levels.
+  canonical: ""
+  noindex: false
 weight: 5030
 date: 2024-01-14T00:00:00.000Z
 description: This guide explains what detail objects are and how to use them.

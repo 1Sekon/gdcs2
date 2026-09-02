@@ -1,6 +1,11 @@
 ---
 draft: true
 title: Advanced Movements (2.1)
+seo:
+  title: How to Create Advanced Movements in Geometry Dash 2.1
+  description: Learn advanced movement techniques and trigger setups for creating complex object motion in Geometry Dash levels.
+  canonical: ""
+  noindex: false
 weight: 6210
 date: 2024-04-19T00:00:00.000Z
 description: Movements are an intuitive application of triggers, but more often than not, you’ll only find yourself scratching the surface of how you can use them as you create. This guide will explain some interesting and useful trigger setups that use movements in different ways.

@@ -3,6 +3,11 @@ draft: false
 authors:
   - komatic5
 title: Mechanics 2 (Gameplay Loops)
+seo:
+  title: How to Create Gameplay Loops in Geometry Dash
+  description: Learn how gameplay loops keep Geometry Dash players engaged, teach mechanics naturally, and build toward rewarding experiences.
+  canonical: ""
+  noindex: false
 weight: 7020
 date: 2023-12-26T00:00:00.000Z
 contributors:

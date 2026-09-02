@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Stop
+seo:
+  title: How to Use the Stop Trigger in Geometry Dash
+  description: Learn how the Stop trigger ends active trigger effects and how Pause and Resume control ongoing actions in Geometry Dash.
+  canonical: ""
+  noindex: false
 weight: 3410
 date: 2023-04-30T00:00:00.000Z
 description: Once you activate a trigger, you may want to stop it before its effects finish. The Stop, Pause, and Resume triggers are perfect for this function. This guide will show how to use these triggers.

@@ -3,7 +3,7 @@ draft: false
 title: Planning a Level
 weight: 2020
 date: 2025-03-25T00:00:00.000Z
-description: null
+description: Planning your level before building helps you organize and execute your ideas more efficiently. This guide explains how to refine ideas, plan a level, manage resources such as color channels or groups, and set the level's scope.
 authors:
   - komatic5
 contributors:
@@ -11,13 +11,21 @@ contributors:
 tags:
   - Grade 0
   - Creating Process
+seo:
+  title: How to Plan a Geometry Dash Level
+  description: Learn how to refine ideas, organize your workflow, manage editor resources, and set a clear scope for a Geometry Dash level.
+  canonical: ""
+  noindex: false
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
+
 - Planning your level beforehand will help you implement, organize, and execute your ideas more efficiently.
 - You should have a thoroughly planned idea and a rough description of what you want your level to highlight in order to convey your concept and themes more sufficiently.
 - Managing color channels, layers and groups will be beneficial when wanting to optimize the level and will help you keep track of things (e.g., having a large object count or having an insufficient number of groups available).
+
 {{< /callout >}}
+
 ** **
 
 # 1: Refining Ideas
@@ -29,6 +37,7 @@ If you read the previous guide, you should now have a few level ideas. If you co
 - How do I account for **detours**?
 
 ## Secondary Ideas
+
 When travelling you can't instantly go from your starting destination to the end goal (until teleportation is invented). In the same vein, when making a level you must break your idea into **smaller steps** that you'll accomplish. Levels don't just have *one* idea in them; they usually have __other ideas with smaller scopes__, which are used as **secondary ideas**.
 
 If you just finished generating ideas, you'll have extras which can work as secondary ideas. However, they should be related to your main level idea. If you're making a level solely about fruit, your secondary ideas should be things like apples and oranges, not the heat-death of the universe.
@@ -46,6 +55,7 @@ Before starting this section, let me remind you that *more specific ideas* will 
 I know I've made this point countless times, but I cannot stress it nearly enough. **Failing to plan is the equivalent of planning to fail**. This is true at any experience level, but even moreso when you're inexperienced.
 
 ## Organizing Ideas
+
 Once you have your main idea and secondary ideas laid down, it's a good time to route out how your journey will look. Like a roadmap, you need to organize how you're going to get from point A to point B. Usually this involves stating your main idea, describing your level's individual parts, and allocating crucial resources. You can also use this[ template](https://docs.google.com/document/d/1C3riyc5PC7NWFCG7BfPZUXhLyw7Sdbk02dRZGYTY1CE/edit) as a starting point for your plans.
 
 I'll be using the level plan for Anarchy Road as an example for the rest of this guide. You can follow along with the plan through [this link](https://docs.google.com/document/d/1bxYeK9KZs5r-JRxg7nrlhH47UG8k7FjD5DHfCW1wh7g/edit#heading=h.hcwwdm2asck).
@@ -62,6 +72,7 @@ By this point *your main idea should be fairly specific*, as discussed in the la
 {{< img src="https://lh3.googleusercontent.com/d/1qlNQhiJfUmu_ntZWuxh9qrsm3pnN0sVR" >}}
 
 ## Resource Allocation
+
 Resources answer the "how" of planning a level. On a road trip you might bring a GPS, food & drink, and enough gasoline in your car to make it to your destination. In GD, these resources are **IDs**, **layers**, and **objects**.
 
 Usually you don't need to explicitly plan these to the same extent as your ideas. Executing your ideas comes with experience and with it, you'll learn which resources you prefer to use when. For example, I and many people use **Group 1** for invisible objects, but some people prefer keeping their **Color 1** as pure black while I use **Color 2** as pure black and leave Color 1 as white.
@@ -71,6 +82,7 @@ Depending on how complex your level plan is, you'll need to set aside more group
 {{< img src="https://lh3.googleusercontent.com/d/1A6PAhuatLUTNnjNyVqTE-RXlEknoH1DK" >}}
 
 ## Level Scope
+
 Levels can be as short as 10 seconds or as long as 3 minutes or more. As a result, you may not have enough space, resources, or time to fully communicate your main idea or secondary ideas. It's important to *set your scope* appropriately as a result.
 
 The **Tradeoff Triangle** is a good representation of how tradeoffs work. With it, you can either have:
@@ -96,6 +108,7 @@ There are two helpful ways to set your scope and prioritize when making plans: t
 When making a level, prioritize your must-have features first, then your should-haves, and so on. If you find yourself struggling to implement a non-essential feature, consider taking a break or scrapping it for a different feature. If you can't implement a must-have, consider how necessary it is for your level, and use Occam's Razor to assess your work. That is a topic for the [next guide](/docs/guides/main-skills/making-a-draft/) though, where it'll be covered in more detail.
 
 ## Detours
+
 Sometimes life throws a wrench into your plans, and you have to adjust accordingly.
 
 On the road, this occurs with road closures, crashes, traffic, or even emergencies. You need to look at your route, assess whether it's worth continuing, and find a different path to your destination.
@@ -103,7 +116,6 @@ On the road, this occurs with road closures, crashes, traffic, or even emergenci
 In Geometry Dash, "road closures" occur when an idea you had turns out to be much harder than expected, or even impossible. "Crashes" are like pushing forward on an idea that's far beyond your skill level or resources to implement, leading to an outcome far worse than you anticipated. "Traffic" is when many people have the same ideas as you; you can sit through it and still reach your destination, but you may want to take a more unique path. And emergencies are real-life situations which pull you away from the game, whatever those may be.
 
 Whatever the detour, it's important to note that *plans aren't set in stone*. It's important to adjust how you'll make your level based on your circumstances, including if you'll finish it at all. Give yourself enough wiggle room to adjust and be flexible when you create, especially if your ideas aren't 100% pinned down or you don't have tons of experience. This is also why I don't leave specific implementation steps for in the guides, like tutorials do – after all, your journey through creating is a path only you can take.
-
 
 # Sources
 

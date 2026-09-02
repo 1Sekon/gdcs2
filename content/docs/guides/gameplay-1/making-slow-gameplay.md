@@ -3,6 +3,11 @@ draft: false
 authors:
   - komatic5
 title: Making Slow Gameplay
+seo:
+  title: How to Make Slow Gameplay in Geometry Dash
+  description: Learn how to make slow Geometry Dash gameplay engaging, readable, and complex while avoiding boring or frustrating sections.
+  canonical: ""
+  noindex: false
 weight: 4170
 date: 2023-07-25T00:00:00.000Z
 contributors:

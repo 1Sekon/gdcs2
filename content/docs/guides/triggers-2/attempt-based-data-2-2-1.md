@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Attempt-Based Data 2 (2.1)
+seo:
+  title: How to Use Advanced Attempt Data in Geometry Dash 2.1
+  description: Learn more advanced techniques for storing and using attempt-based data in Geometry Dash trigger setups.
+  canonical: ""
+  noindex: false
 weight: 6180
 date: 2024-04-19T00:00:00.000Z
 description: This guide delves into an application of Activation Order to save integer values between attempts.

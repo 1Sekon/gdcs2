@@ -3,6 +3,11 @@ draft: false
 authors:
   - sparktwee
 title: Animation 5 (Transitions)
+seo:
+  title: How to Make Transitions in Geometry Dash
+  description: Learn how to connect different parts of a Geometry Dash level with hard cuts, fades, wipes, match cuts, and continuous transitions.
+  canonical: ""
+  noindex: false
 weight: 8130
 date: 2026-05-19T00:00:00.000Z
 contributors:

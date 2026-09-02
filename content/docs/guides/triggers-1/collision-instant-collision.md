@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Collision & Instant Collision
+seo:
+  title: How to Use Collision Triggers in Geometry Dash
+  description: Learn how Collision and Instant Collision triggers detect interactions and activate events in Geometry Dash levels.
+  canonical: ""
+  noindex: false
 weight: 3370
 date: 2023-03-14T00:00:00.000Z
 description: This guide explains how to use the Collision trigger. It's a condition trigger that activates when two collision blocks touch, and doubles as a Spawn trigger.

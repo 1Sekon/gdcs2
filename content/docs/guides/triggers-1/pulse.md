@@ -3,6 +3,11 @@ draft: false
 authors:
   - electrifyxd
 title: Pulse
+seo:
+  title: How to Use the Pulse Trigger in Geometry Dash
+  description: Learn how the Pulse trigger changes object colors and creates timed flashing effects in Geometry Dash levels.
+  canonical: ""
+  noindex: false
 weight: 3030
 date: 2024-01-08T00:00:00.000Z
 contributors:
@@ -17,7 +22,6 @@ tags:
 
 - Pulse triggers change the color of a certain color channel or group for a set amount of time using the "Fade In", "Hold", and "Fade Out" sliders.
 - In order to choose what changes color, you can toggle either of the Pulse Mode or Target Type options.
-
 
 {{< /callout >}}
 
@@ -36,8 +40,6 @@ The pulse trigger has a built-in color editor and multiple features:
 Just like most other triggers, you can set the Pulse Trigger as either "Touch Triggered" or "Spawn Triggered", but you can also set it as "Exclusive".
 
 If a Pulse Trigger is "Exclusive", it will disable all other Pulses with the same Target Group ID when activated.
-
-
 
 Additionally, there are two togglable options:
 

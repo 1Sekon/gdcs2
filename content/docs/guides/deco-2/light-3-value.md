@@ -3,6 +3,11 @@ draft: false
 authors:
   - lifecheck
 title: Light 3 (Value)
+seo:
+  title: How to Use Value in Geometry Dash Lighting
+  description: Learn what value means in lighting and how brightness and darkness define forms and improve Geometry Dash decoration.
+  canonical: ""
+  noindex: false
 weight: 8080
 date: 2023-12-15T00:00:00.000Z
 contributors:

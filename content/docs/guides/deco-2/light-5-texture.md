@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Light 5 (Texture)
+seo:
+  title: How to Use Texture in Geometry Dash Decoration
+  description: Learn how lighting and color can communicate texture and make Geometry Dash objects appear to have different materials.
+  canonical: ""
+  noindex: false
 weight: 8100
 date: 2025-03-17T00:00:00.000Z
 description: Textures are details that let us imagine how an object would feel to touch. This guide will teach you how to understand textures and apply them in different situations.

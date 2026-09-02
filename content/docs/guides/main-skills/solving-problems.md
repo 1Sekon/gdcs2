@@ -12,6 +12,11 @@ contributors:
 tags:
   - Grade 0
   - Creating Process
+seo:
+  title: How to Solve Problems in Geometry Dash
+  description: Learn practical frameworks for identifying issues, finding solutions, and overcoming bugs and problems in Geometry Dash.
+  canonical: ""
+  noindex: false
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

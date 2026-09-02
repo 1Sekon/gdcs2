@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Sequence
+seo:
+  title: How to Use the Sequence Trigger in Geometry Dash
+  description: Learn how the Sequence trigger activates groups in order and helps create coordinated Geometry Dash trigger setups.
+  canonical: ""
+  noindex: false
 weight: 3390
 date: 2023-12-30T00:00:00.000Z
 description: This guide explains how to use the Sequence trigger, which lets you make a fully customized loop in-game.

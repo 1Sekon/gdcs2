@@ -11,6 +11,11 @@ description: Collabs are always a popular way to make Geometry Dash levels. Howe
 tags:
   - Grade 0
   - Community Work
+seo:
+  title: How to Host a Successful Geometry Dash Collab
+  description: Learn how to plan, organize, and manage a Geometry Dash collab so creators can work together and finish the level.
+  canonical: ""
+  noindex: false
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

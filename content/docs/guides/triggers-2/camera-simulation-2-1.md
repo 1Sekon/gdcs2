@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Camera Simulation (2.1)
+seo:
+  title: How to Simulate Camera Effects in Geometry Dash 2.1
+  description: Learn how to simulate camera movement and effects with Geometry Dash triggers when building custom gameplay and scenes.
+  canonical: ""
+  noindex: false
 weight: 6190
 date: 2024-04-20T00:00:00.000Z
 description: This guide looks at how the GD camera works and how to simulate it in GD 2.1.

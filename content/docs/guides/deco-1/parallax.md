@@ -3,6 +3,11 @@ draft: false
 authors:
   - komatic5
 title: Parallax
+seo:
+  title: How to Create Parallax in Geometry Dash
+  description: Learn how to create parallax effects in Geometry Dash so background and foreground objects appear to move at different depths.
+  canonical: ""
+  noindex: false
 weight: 5140
 date: 2024-01-15T00:00:00.000Z
 contributors:

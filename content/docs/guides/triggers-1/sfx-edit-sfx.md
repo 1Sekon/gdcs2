@@ -3,6 +3,11 @@ draft: false
 authors:
   - electrifyxd
 title: SFX & Edit SFX
+seo:
+  title: How to Use SFX Triggers in Geometry Dash
+  description: Learn how SFX and Edit SFX triggers play, modify, and control sound effects in Geometry Dash levels.
+  canonical: ""
+  noindex: false
 weight: 3322
 date: 2024-01-07T00:00:00.000Z
 description: This guide explains how the SFX & Edit SFX triggers work.
