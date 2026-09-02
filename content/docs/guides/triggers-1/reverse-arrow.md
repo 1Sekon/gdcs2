@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Reverse & Arrow
+seo:
+  title: How to Use Reverse and Arrow Triggers in Geometry Dash
+  description: Learn how Reverse and Arrow triggers change player direction and movement behavior in Geometry Dash gameplay.
+  canonical: ""
+  noindex: false
 weight: 3280
 date: 2024-02-06T00:00:00.000Z
 description: This guide explains how the Reverse & Arrow triggers work. The Reverse trigger lets you change the player's movement direction, while the Arrow trigger lets you change the direction of gravity.

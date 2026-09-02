@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Toggle
+seo:
+  title: How to Use the Toggle Trigger in Geometry Dash
+  description: Learn how the Toggle trigger enables or disables groups of objects in Geometry Dash.
+  canonical: ""
+  noindex: false
 weight: 3060
 date: 2024-01-08T00:00:00.000Z
 description: This guide explains how the Toggle trigger works. It lets you enable/disable objects and their hitboxes.

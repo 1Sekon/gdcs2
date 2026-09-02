@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Alpha
+seo:
+  title: How to Use the Alpha Trigger in Geometry Dash
+  description: Learn how to use the Alpha trigger to change object transparency and create fades and visibility effects in Geometry Dash.
+  canonical: ""
+  noindex: false
 weight: 3050
 date: 2024-01-08T00:00:00.000Z
 description: This guide explains how the Alpha trigger works. It lets you change and control an object's opacity/transparency.

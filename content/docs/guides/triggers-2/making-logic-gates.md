@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Making Logic Gates
+seo:
+  title: How to Make Logic Gates in Geometry Dash
+  description: Learn how AND, NOT, OR, and XOR logic gates work and how to combine them into complex Geometry Dash trigger setups.
+  canonical: ""
+  noindex: false
 weight: 6080
 date: 2024-09-16T00:00:00.000Z
 authors:

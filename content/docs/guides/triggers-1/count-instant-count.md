@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Count & Instant Count
+seo:
+  title: How to Use Count Triggers in Geometry Dash
+  description: Learn how Count and Instant Count triggers track values and activate events in Geometry Dash trigger setups.
+  canonical: ""
+  noindex: false
 weight: 3440
 date: 2024-01-24T00:00:00.000Z
 description: This guide explains how the Count & Instant Count triggers work. They let you spawn groups based on the values of Item IDs.

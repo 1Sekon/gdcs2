@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Color
+seo:
+  title: How to Use the Color Trigger in Geometry Dash
+  description: Learn how to change color channels over time with the Color trigger in Geometry Dash.
+  canonical: ""
+  noindex: false
 weight: 3020
 date: 2024-01-24T00:00:00.000Z
 description: The Color trigger changes the colors of objects. This guide explains how it works.

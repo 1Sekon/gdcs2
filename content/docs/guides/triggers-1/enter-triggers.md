@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Enter Triggers
+seo:
+  title: How to Use Enter Triggers in Geometry Dash
+  description: Learn how Enter triggers work in Geometry Dash.
+  canonical: ""
+  noindex: false
 weight: 3250
 date: 2024-04-03T00:00:00.000Z
 description: Enter Triggers change how objects look as they enter and exit the screen. This guide explains how them work.

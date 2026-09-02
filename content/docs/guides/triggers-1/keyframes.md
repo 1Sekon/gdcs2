@@ -3,6 +3,11 @@ draft: false
 authors:
   - theibra
 title: Keyframes
+seo:
+  title: How to Use Keyframes in Geometry Dash
+  description: Learn how Keyframes store and animate object properties to create precise movement and effects in Geometry Dash.
+  canonical: ""
+  noindex: false
 weight: 3110
 date: 2024-05-15T00:00:00.000Z
 contributors:

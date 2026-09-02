@@ -4,6 +4,11 @@ authors:
   - notamoderatr
   - tdp9
 title: Gravity, Teleport, & Timewarp
+seo:
+  title: How to Use Gravity, Teleport, and Timewarp Triggers in Geometry Dash
+  description: Learn how Gravity, Teleport, and Timewarp triggers change player movement, position, and speed in Geometry Dash.
+  canonical: ""
+  noindex: false
 weight: 3300
 date: 2024-07-19T00:00:00.000Z
 contributors:

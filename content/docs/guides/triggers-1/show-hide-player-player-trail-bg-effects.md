@@ -3,6 +3,11 @@ draft: false
 authors:
   - tdp9
 title: Show/Hide Player, Player Trail, & BG Effects
+seo:
+  title: How to Show and Hide Player Effects in Geometry Dash
+  description: Learn how to control the player, player trail, and background effects with Show and Hide triggers in Geometry Dash.
+  canonical: ""
+  noindex: false
 weight: 3310
 date: 2024-01-08T00:00:00.000Z
 contributors:

@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Spawn
+seo:
+  title: How to Use the Spawn Trigger in Geometry Dash
+  description: Learn how the Spawn trigger activates other triggers and builds reusable setups in Geometry Dash.
+  canonical: ""
+  noindex: false
 weight: 3340
 date: 2023-03-14T00:00:00.000Z
 description: The Spawn Trigger is a trigger that can activate other triggers. It’s the first of its kind and is important for the trigger workflow. This guide will explain how to use it.

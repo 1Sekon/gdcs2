@@ -3,6 +3,11 @@ draft: false
 authors:
   - chuckolate
 title: Stacking Properties
+seo:
+  title: How to Stack Triggers in Geometry Dash
+  description: Learn how stacking combines trigger effects and how to control multiple values in Geometry Dash setups.
+  canonical: ""
+  noindex: false
 weight: 6045
 date: 2026-09-02T00:00:00.000Z
 description: Stacking is an important component of using triggers. By combining
@@ -353,12 +358,12 @@ Sometimes you’ll run into situations where stacking individual triggers isn’
 ## What is Binary?
 
 Unlike our base$-$10 decimal system consisting of digits 0 to 9, binary represents numbers using only 1s and 0s, referred to as base$-$2. **Each place value in binary** is called a **bit**. Counting in decimal would look like this: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, and so on, whereas counting in binary would look like this: 0, 1, 10, 11, 100, 101, and so on.
-In base$-$10, each place value represents a power of 10; the rightmost digit is multiplied by $10^0$, the next digit by $10^1$, the next by $10^2$ and so on. For example, 3472 in decimal equals 
+In base$-$10, each place value represents a power of 10; the rightmost digit is multiplied by $10^0$, the next digit by $10^1$, the next by $10^2$ and so on. For example, 3472 in decimal equals
 $$
 3\cdot 10^3 + 4\cdot 10^2 + 7\cdot 10^1 + 2\cdot 10^0.
 $$
 
-In binary, each bit represents a power of 2. For example, the number 1101 in binary equals 
+In binary, each bit represents a power of 2. For example, the number 1101 in binary equals
 $$
 1\cdot 2^3 + 1\cdot 2^2 + 0\cdot 2^1 + 1\cdot 2^0,
 $$

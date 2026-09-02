@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Making Vectors
+seo:
+  title: How to Make and Use Vectors in Geometry Dash
+  description: Learn what vectors are and how to use them to control direction, movement, and advanced calculations in Geometry Dash.
+  canonical: ""
+  noindex: false
 weight: 6120
 date: 2024-11-30T00:00:00.000Z
 description: If you have ever taken geometry or calculus, you should be familiar with vectors. These are lists of numbers corresponding to a certain axis of movement, rotation, or scaling. While they may not be interesting in a math lecture context, they are powerful for things like graphics and physics engines, which Geometry Dash is no stranger to. In this guide, we will look at how vectors work and where they can be applied in GD.

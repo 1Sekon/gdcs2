@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Gradient
+seo:
+  title: How to Use the Gradient Trigger in Geometry Dash
+  description: Learn how to use the Gradient trigger in Geometry Dash.
+  canonical: ""
+  noindex: false
 weight: 3200
 date: 2024-01-08T00:00:00.000Z
 description: This guide explains how the Gradient trigger works. It's a revolutionary trigger that allows for gradients, different blending modes and masks, and complex 2D shapes.

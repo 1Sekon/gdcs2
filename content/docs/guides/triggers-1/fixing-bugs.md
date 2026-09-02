@@ -3,6 +3,11 @@ draft: false
 authors:
   - illusion2
 title: Fixing Bugs
+seo:
+  title: How to Fix Trigger Bugs in Geometry Dash
+  description: Learn how to identify and fix common trigger bugs and unexpected behavior when building Geometry Dash levels.
+  canonical: ""
+  noindex: false
 weight: 3470
 date: 2023-08-31T00:00:00.000Z
 contributors:

@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Start Pos & End
+seo:
+  title: How to Use Start Position and End Triggers in Geometry Dash
+  description: Learn how Start Position and End triggers work in Geometry Dash.
+  canonical: ""
+  noindex: false
 weight: 3270
 date: 2024-03-11T00:00:00.000Z
 description: This guide explains how the Start Pos & End triggers work. The Start Pos trigger lets you set a temporary starting point in a level, while the End trigger lets you choose where the level ends.

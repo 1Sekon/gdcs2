@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Animate
+seo:
+  title: How to Use the Animate Trigger in Geometry Dash
+  description: Learn how the Animate trigger works and how to apply them to animated objects in Geometry Dash levels.
+  canonical: ""
+  noindex: false
 weight: 3190
 date: 2024-01-25T00:00:00.000Z
 description: If you have played the main levels up to Geometrical Dominator, or have explored the Orbs tab in the editor, you may have noticed the inclusion of animated creatures, known as monsters. These monsters normally will use their default animation, which can be controlled with the use of the Animate Trigger. In this guide we will go over how to use this trigger and its list of animations.

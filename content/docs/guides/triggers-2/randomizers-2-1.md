@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Randomizers (2.1)
+seo:
+  title: How to Make Randomizers in Geometry Dash 2.1
+  description: Learn how to build randomizer systems with Geometry Dash triggers.
+  canonical: ""
+  noindex: false
 weight: 6200
 date: 2024-04-19T00:00:00.000Z
 description: A lot of board games have an element of chance involved, which can change the game's outcome drastically. In this lesson, we'll discuss how to make four Randomizers - a way to "roll a dice" in Geometry Dash 2.1.

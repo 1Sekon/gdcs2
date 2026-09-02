@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Touch
+seo:
+  title: How to Use the Touch Trigger in Geometry Dash
+  description: Learn how the Touch trigger detects player interaction and activates events in Geometry Dash levels.
+  canonical: ""
+  noindex: false
 weight: 3360
 date: 2024-04-30T00:00:00.000Z
 description: This guide explains how to use the Touch trigger. It's a condition trigger that activates when the player clicks, and doubles as a Spawn trigger.

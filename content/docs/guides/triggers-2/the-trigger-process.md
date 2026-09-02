@@ -1,6 +1,11 @@
 ---
 draft: false
 title: The Trigger Process
+seo:
+  title: What Is the Trigger Process in Geometry Dash?
+  description: Learn the basics components of trigger setups in Geometry Dash.
+  canonical: ""
+  noindex: false
 weight: 3470
 date: 2023-03-14T00:00:00.000Z
 description: "Just as everyone has a different approach to decoration and gameplay, creating workflows can vary from creator to creator. Triggers are no different, but you are dealing less with the level's visuals, and more with its programming. In this guide, we will explain the 3 parts that make up the trigger workflow and how to set them up: functions, modules, and truth conditions. There will be examples afterward for further practice."

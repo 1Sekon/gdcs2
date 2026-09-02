@@ -3,6 +3,11 @@ draft: false
 authors:
   - electrifyxd
 title: Pulse
+seo:
+  title: How to Use the Pulse Trigger in Geometry Dash
+  description: Learn how the Pulse trigger changes object colors and creates timed flashing effects in Geometry Dash levels.
+  canonical: ""
+  noindex: false
 weight: 3030
 date: 2024-01-08T00:00:00.000Z
 contributors:

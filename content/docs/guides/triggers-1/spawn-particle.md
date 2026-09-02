@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Spawn Particle
+seo:
+  title: How to Spawn Particles in Geometry Dash
+  description: Learn how the Spawn Particle trigger works in Geometry Dash.
+  canonical: ""
+  noindex: false
 weight: 3210
 date: 2024-01-21T00:00:00.000Z
 description: The Spawn Particle trigger spawns a custom particle at the group you specify. This guide explains how it works.

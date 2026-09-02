@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Advanced Follow
+seo:
+  title: How to Use Advanced Follow Triggers in Geometry Dash
+  description: Learn how Advanced Follow triggers control object movement and create more complex follow effects in Geometry Dash.
+  canonical: ""
+  noindex: false
 weight: 3120
 date: 2024-01-08T00:00:00.000Z
 description: The Advanced Follow trigger is a highly customizable trigger with lots of parameters, having lots of useful and powerful capabilities. This guide explains how to it, alongside Edit Adv Follow and Re-Target Adv Follow.

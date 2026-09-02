@@ -4,6 +4,11 @@ authors:
   - theibra
   - typexleta
 title: Priority Order
+seo:
+  title: How Trigger Priority Order Works in Geometry Dash
+  description: Learn how Geometry Dash determines trigger priority and how execution order affects trigger setups.
+  canonical: ""
+  noindex: false
 weight: 6030
 date: 2024-09-17T00:00:00.000Z
 contributors:

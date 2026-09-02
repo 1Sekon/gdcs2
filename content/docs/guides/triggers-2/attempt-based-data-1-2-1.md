@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Attempt-Based Data 1 (2.1)
+seo:
+  title: How to Use Attempt-Based Data in Geometry Dash 2.1
+  description: Learn how attempt-based data works and how to use it to track player attempts and build persistent Geometry Dash systems.
+  canonical: ""
+  noindex: false
 weight: 6170
 date: 2024-04-19T00:00:00.000Z
 description: This guide delves into an application of Activation Order to save binary values between attempts.

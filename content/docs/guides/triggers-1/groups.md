@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Groups
+seo:
+  title: How to Use Groups in Geometry Dash Triggers
+  description: Learn how group IDs organize objects and let triggers control them in Geometry Dash levels.
+  canonical: ""
+  noindex: false
 weight: 3040
 date: 2024-02-11T00:00:00.000Z
 description: Groups are a feature that is required to use and understand most triggers. This guide explains how to use them.

@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Spawn Order
+seo:
+  title: How Spawn Order Works in Geometry Dash
+  description: Learn how Spawn triggers determine activation order and how to organize chained events in Geometry Dash.
+  canonical: ""
+  noindex: false
 weight: 6020
 date: 2024-04-18T00:00:00.000Z
 description: If you activate two triggers on the same frame, how does Geometry Dash know which to activate first? The answer is Activation Order. There are two systems in-game for this, the first of which is Spawn Order. This guide will discuss what it is and how it works.
