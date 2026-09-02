@@ -4,6 +4,11 @@ authors:
   - komatic5
   - naem.less
 title: Particle System
+seo:
+  title: How to Use the Particle System in Geometry Dash
+  description: Learn how the Geometry Dash particle system works and how to use particles to create atmosphere and motion in your levels.
+  canonical: ""
+  noindex: false
 weight: 5033
 date: 2023-11-01T00:00:00.000Z
 contributors:

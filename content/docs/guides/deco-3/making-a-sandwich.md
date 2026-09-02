@@ -1,6 +1,11 @@
 ---
 draft: true
 title: Making a Sandwich
+seo:
+   title: How to Make a Sandwich in Geometry Dash
+   description: sandwhiches all over the place
+   canonical: ""
+   noindex: false
 description: it's sandwhiching time
 tags:
   - Grade 3

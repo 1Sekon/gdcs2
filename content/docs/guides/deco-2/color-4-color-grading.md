@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Color 4 (Color Grading)
+seo:
+  title: How to Use Color Grading in Geometry Dash
+  description: Learn what color grading is and how it can change the mood, atmosphere, and visual impact of Geometry Dash levels.
+  canonical: ""
+  noindex: false
 weight: 8040
 date: 2024-08-15T00:00:00.000Z
 description: Picture your favorite film in nothing but black and white, devoid of any greens of a forest, the reds of a sunset, or the blues of a moonlit night. How different would the impact be? In this guide, we will look at what **color grading** is, and how you can use it to bump up your levels.

@@ -3,6 +3,11 @@ draft: false
 authors:
   - komatic5
 title: Deco Styles
+seo:
+  title: What Are Decoration Styles in Geometry Dash?
+  description: Learn about different decoration styles in Geometry Dash.
+  canonical: ""
+  noindex: false
 weight: 5200
 date: 2023-11-01T00:00:00.000Z
 contributors:

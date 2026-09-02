@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Light 4 (Reflections)
+seo:
+  title: How to Make Reflections in Geometry Dash
+  description: Learn how reflections work and how to use them to make Geometry Dash levels feel more immersive.
+  canonical: ""
+  noindex: false
 date: 2026-03-27T00:00:00.000Z
 weight: 8090
 description: Constructing reflections is an important part of understanding light. Reflections might seem like a minor step in the creative process, but, in the end, they play a crucial role in bringing any piece together and making it feel immersive.

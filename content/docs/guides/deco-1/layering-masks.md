@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Layering Masks
+seo:
+  title: How to Use Masks in Geometry Dash Part 1
+  description: Learn how to make layering masks in Geometry Dash and how they can help you control which objects appear in front of or behind others.
+  canonical: ""
+  noindex: false
 date: 2023-10-13T00:00:00.000Z
 weight: 5150
 description: Masking is a popular technique used by creators to hide objects or parts of blocks. They’re often used to save time or make neat visual effects. There are many kinds of masks; however, this lesson will focus specifically on layering masks. Layering masks are masks that rely on Z layers to function. This guide will mention a total of 6 of them.

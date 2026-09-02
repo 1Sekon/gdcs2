@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Creating Details
+seo:
+  title: How to Create Details in Geometry Dash
+  description: Learn how to add effective details to Geometry Dash levels and make your decoration more interesting and polished.
+  canonical: ""
+  noindex: false
 date: 2024-05-15T00:00:00.000Z
 weight: 5005
 description: Once you know how to use objects to form shapes, colors, and textures, you need to learn how to make those objects look interesting. Details are the primary way to make your deco look good, so this guide will teach you how to best use them.

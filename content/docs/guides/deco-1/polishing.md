@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Polishing
+seo:
+  title: How to Polish Geometry Dash Decoration
+  description: Learn how to polish Geometry Dash levels by refining details & fixing visual issues.
+  canonical: ""
+  noindex: false
 weight: 5126
 date: 2023-03-10T00:00:00.000Z
 description: Once you've finished making shapes for your decoration, it's time to make them look more presentable. This guide will help you to polish your decoration and make it look more professional.
@@ -74,6 +79,7 @@ The image below is an example of this, where the curve is clearly misaligned, bu
 When you combine your ideas, you’ll find that they don’t always fit together. They clash and look disorganized, or that the level generally feels messy. You’ll want to polish and clean up your decoration, so that it fulfills how you intend it to look. Finding a good balance between a polished look and a varied look is based on your taste, so there is no one-size-fits-all method to merge decoration.
 
 When decoration does clash, there are some usual suspects. The following is a list of some of them:
+
 ## High Detail, Low Contrast
 
 When you have a lot of detailed objects but not a lot of color contrast, you'll often get messiness. This makes things appear very cluttered, which only does more harm than good.

@@ -3,6 +3,11 @@ draft: false
 authors:
   - komatic5
 title: Making Animations
+seo:
+  title: How to Make Animations in Geometry Dash
+  description: Learn how to create animations in Geometry Dash in various ways.
+  canonical: ""
+  noindex: false
 weight: 5110
 date: 2023-08-05T00:00:00.000Z
 contributors:
@@ -22,7 +27,6 @@ tags:
 - You can then use rotation to make your animations feel slightly more lifelike, and anything more complex (such as objects changing shapes or morphing) can be done using frame-by-frame animation.
 - Keep in mind that you probably won’t get your animations perfect on the first try; always be open to adjusting your movements or adding more parts to your animation, like particles and pulses.
 
-
 {{< /callout >}}
 
 - - -
@@ -36,7 +40,6 @@ Although these two forms of movement are essentially the same, it is very useful
 * **Ease Out:** It is best not to use this easing almost ever, as RobTop seems to have programmed it incorrectly so that it forms a square root graph instead of a negative quadratic graph, so the movement ends up looking very choppy and unnatural.
 
 {{< callout context="caution" title="Note: If you need to animate using a proper 'ease out' trigger, try instead combining two triggers together, one using a 'none' easing and DOUBLE the distance you want, the other using 'ease in' with the NEGATIVE of the distance you want." icon="outline/info-circle" >}}
-
 
 {{< /callout >}}
 

@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Fill 1
+seo:
+  title: How to Fill Empty Space in Geometry Dash Decoration Part 1
+  description: Learn the fundamentals of filling empty space in Geometry Dash.
+  canonical: ""
+  noindex: false
 weight: 5122
 date: 2023-03-10T00:00:00.000Z
 description: Once you've made the outline of a shape, you need to fill it in. This guide will explain how you can fill in shapes using flat colors, what objects you can use, and some best practices for doing so.

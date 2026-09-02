@@ -3,6 +3,11 @@ draft: false
 authors:
   - sparktwee
 title: Animation 1 (Timing & Easing)
+seo:
+  title: How to Use Timing and Easing in Geometry Dash
+  description: Learn how to use the Timing and Easing animation principle to give organic movements to animations for your Geometry Dash levels.
+  canonical: ""
+  noindex: false
 weight: 8108
 date: 2025-11-15T00:00:00.000Z
 contributors:

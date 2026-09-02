@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Making Effects
+seo:
+  title: How to Make Effects in Geometry Dash
+  description: Learn how to create visual effects in Geometry Dash and use objects, colors, layering, and triggers to enhance your levels.
+  canonical: ""
+  noindex: false
 date: 2024-09-18T00:00:00.000Z
 weight: 5120
 description: This guide explains what effects generally are, important concepts to know when making them, and the creating process for implementing them in your levels.

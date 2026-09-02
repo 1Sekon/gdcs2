@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Perspective 1 (Basics)
+seo:
+  title: What Are the Basics of Perspective in Geometry Dash?
+  description: Learn the fundamentals of perspective and how to create the impression of depth in Geometry Dash decoration.
+  canonical: ""
+  noindex: false
 date: 2023-05-21T00:00:00.000Z
 weight: 8200
 description: Perspective is crucial for advancing from 2D designs into complex, 3D ones. It's also the basis for understanding how light and color interact, and all the other guides in this channel. This guide explains the basics of perspective accordingly.

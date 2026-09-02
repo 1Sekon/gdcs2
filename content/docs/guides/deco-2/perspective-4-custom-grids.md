@@ -3,6 +3,11 @@ draft: false
 authors:
   - sethlai
 title: Perspective 4 (Custom Grids)
+seo:
+  title: How to Use Custom Grids for Geometry Dash Perspective
+  description: Learn how custom grids can help you construct accurate perspective and more convincing forms in Geometry Dash decoration.
+  canonical: ""
+  noindex: false
 weight: 8230
 date: 2026-06-22T00:00:00.000Z
 contributors:

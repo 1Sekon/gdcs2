@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Animated Objects
+seo:
+  title: How to Use Animated Objects in Geometry Dash
+  description: Learn how animated objects work and how to use them to add movement and life to Geometry Dash decoration.
+  canonical: ""
+  noindex: false
 weight: 5020
 date: 2024-01-01T00:00:00.000Z
 description: Animated objects are objects that have special animations, which (besides monsters and the Particle Editor) share common settings. This guide explains these settings in general.

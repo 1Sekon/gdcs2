@@ -3,6 +3,11 @@ draft: false
 authors:
   - kde
 title: Color 1 (Basics)
+seo:
+  title: What Are the Basics of Color in Geometry Dash?
+  description: Learn the fundamentals of color and how hue, saturation, and value can improve Geometry Dash decoration.
+  canonical: ""
+  noindex: false
 weight: 8010
 date: 2023-10-15T00:00:00.000Z
 contributors:

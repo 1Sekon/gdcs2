@@ -3,6 +3,11 @@ draft: false
 authors:
   - kde
 title: Making Backgrounds
+seo:
+  title: How to Make Backgrounds in Geometry Dash
+  description: Learn how to design effective Geometry Dash backgrounds that support your level's atmosphere, gameplay, and visual composition.
+  canonical: ""
+  noindex: false
 weight: 5090
 date: 2023-06-22T00:00:00.000Z
 contributors:

@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Light 1 (Basics)
+seo:
+  title: What Are the Basics of Lighting in Geometry Dash?
+  description: Learn how light and shadow communicate depth, mood, and detail in Geometry Dash decoration.
+  canonical: ""
+  noindex: false
 date: 2023-05-21T00:00:00.000Z
 weight: 8060
 description: Lighting is another dimension of detail that you can use to communicate to viewers. It’s one of the most intuitive ones when used properly, however it can also be difficult to learn. In this guide, we’ll go through the basics of light and shadow.

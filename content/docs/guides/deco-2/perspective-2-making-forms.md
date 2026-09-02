@@ -4,6 +4,11 @@ authors:
   - komatic5
   - chunlv1
 title: Perspective 2 (Making Forms)
+seo:
+  title: How to Make Forms Using Perspective in Geometry Dash
+  description: Learn how to use perspective to turn flat shapes into convincing forms and create depth in Geometry Dash decoration.
+  canonical: ""
+  noindex: false
 weight: 8210
 date: 2023-11-01T00:00:00.000Z
 contributors:

@@ -3,6 +3,11 @@ draft: false
 authors:
   - komatic5
 title: Light 2 (Making Shadows)
+seo:
+  title: How to Make Shadows in Geometry Dash
+  description: Learn how to create and place shadows in Geometry Dash to add depth, form, and contrast to your decoration.
+  canonical: ""
+  noindex: false
 weight: 8070
 date: 2025-06-30T00:00:00.000Z
 contributors:

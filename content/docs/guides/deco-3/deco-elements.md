@@ -4,6 +4,11 @@ title: Elements of Decoration
 weight: 110010
 date: 2026-03-26T00:00:00.000Z
 description: Decoration is made from fundamental elements such as color, value, line, shape, form, space, and texture. This guide explains these building blocks and how they can be put together for decoration.
+seo:
+  title: What Are the Elements of Geometry Dash Decoration?
+  description: Learn how color, value, line, shape, form, space, and texture work as the fundamental building blocks of Geometry Dash decoration.
+  canonical: ""
+  noindex: false
 authors:
   - komatic5
 contributors:
