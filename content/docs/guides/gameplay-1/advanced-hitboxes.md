@@ -9,6 +9,11 @@ contributors:
   - mateussdev
   - notamoderatr
 description: Have you ever wondered when you hit a spike in an unconventional way you die, or wonder why the latter happened when you clearly hit a spike? These scenarios happen due to quirks in how the game handles object collisions. In this guide, we will learn how GD handles said collisions, the perks of having this system, and how you can use this to your advantage to get a desired difficulty.
+seo:
+  title: How Advanced Hitboxes Work in Geometry Dash
+  description: Learn how Geometry Dash handles object collisions and how advanced hitboxes can help you design gameplay difficulty.
+  canonical: ""
+  noindex: false
 tags:
   - Grade 1
   - Gameplay Basics

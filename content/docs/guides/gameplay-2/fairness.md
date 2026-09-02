@@ -3,6 +3,11 @@ draft: false
 authors:
   - tdp9
 title: Pacing 3 (Fairness)
+seo:
+  title: How to Make Fair Gameplay in Geometry Dash
+  description: Learn what fairness means in Geometry Dash, how to teach mechanics clearly, and how to create gameplay that keeps players in flow.
+  canonical: ""
+  noindex: false
 weight: 7080
 date: 2024-07-31T00:00:00.000Z
 contributors:

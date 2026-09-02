@@ -14,7 +14,9 @@ tags:
   - Game Design
 seo:
   title: How to Make a Bossfight in Geometry Dash
+  description: Learn how to design memorable Geometry Dash bossfights.
   canonical: bossfight-design
+  noindex: false
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

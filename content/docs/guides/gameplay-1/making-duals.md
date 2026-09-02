@@ -4,6 +4,11 @@ authors:
   - e.clypse
   - naem.less
 title: Making Duals
+seo:
+  title: How to Make Better Duals in Geometry Dash
+  description: Learn about the different types of duals in Geometry Dash and how to use them to create versatile, interesting, and enjoyable gameplay.
+  canonical: ""
+  noindex: false
 weight: 4185
 date: 2024-10-14T00:00:00.000Z
 contributors:

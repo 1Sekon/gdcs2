@@ -14,6 +14,8 @@ tags:
   - Sound Design
 seo:
   title: How Sound Effects Make Geometry Dash Better
+  description: Learn how to find and use sound effects in Geometry Dash to make your levels more immersive and engaging.
+  noindex: false
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

@@ -3,6 +3,11 @@ draft: false
 authors:
   - unknown
 title: Refresh Rates
+seo:
+  title: How Refresh Rates Affect Geometry Dash Gameplay
+  description: Learn what refresh rates are, how they affect Geometry Dash physics and inputs, and why you should test gameplay on multiple devices.
+  canonical: ""
+  noindex: false
 weight: 4230
 date: 2023-03-18T00:00:00.000Z
 contributors:

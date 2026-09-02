@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Making Platformer Gameplay
+seo:
+  title: How to Make Platformer Gameplay in Geometry Dash
+  description: Learn what makes Geometry Dash Platformer Mode different and how to design gameplay for platformer levels.
+  canonical: ""
+  noindex: false
 weight: 4190
 date: 2025-03-31T00:00:00.000Z
 description: You’re likely familiar with Geometry Dash’s main gameplay loop; you jump over obstacles, dodge projectiles, and overall follow a linear path to the finish. This has been the case for most of the game’s lifespan. But now in 2.2, platformer mode has been introduced, breaking that linear path in favor of something new. In this guide, we will cover what platformer mode is and the process behind making gameplay for platformers.

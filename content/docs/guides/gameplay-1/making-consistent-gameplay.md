@@ -3,6 +3,11 @@ draft: false
 authors:
   - e.clypse
 title: Making Consistent Gameplay
+seo:
+  title: How to Make Consistent Gameplay in Geometry Dash
+  description: Learn how to account for player input, margin of error, punishment, bugs, and transitions when creating fair Geometry Dash gameplay.
+  canonical: ""
+  noindex: false
 weight: 4150
 date: 2025-01-16T00:00:00.000Z
 contributors:

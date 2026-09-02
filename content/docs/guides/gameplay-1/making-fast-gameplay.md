@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Making Fast Gameplay
+seo:
+  title: How to Make Fast Gameplay in Geometry Dash
+  description: Learn how to create fast-paced Geometry Dash gameplay that remains engaging, readable, and high quality.
+  canonical: ""
+  noindex: false
 weight: 4160
 date: 2024-11-30T00:00:00.000Z
 description: One of the easiest ways to make your gameplay engaging is to make it fast. However, you need to make sure that your fast gameplay isn't poor quality because of that. This guide explains how you can make quality fast-paced gameplay.

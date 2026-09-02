@@ -13,7 +13,10 @@ tags:
   - Grade 2
   - Sound Design
 seo:
+  title: How to Make Sound Effects for Geometry Dash
+  description: Learn how to create basic Geometry Dash sound effects with a DAW and use soundwave types and plugins to shape your level's audio.
   canonical: basic-sound-design
+  noindex: false
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

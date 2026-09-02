@@ -3,6 +3,11 @@ draft: false
 authors:
   - tdp9
 title: Pacing 5 (Intensity)
+seo:
+  title: How to Create Intense Gameplay in Geometry Dash
+  description: Learn what intensity means in Geometry Dash and how progression, movement, pacing, and music can make a level feel more intense.
+  canonical: ""
+  noindex: false
 weight: 7110
 date: 2024-03-11T00:00:00.000Z
 contributors:

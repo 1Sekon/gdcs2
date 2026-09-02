@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Making Structures
+seo:
+  title: How to Build Better Gameplay Structures in Geometry Dash
+  description: Learn how structuring affects readability, gameplay & decoration, and how to take advantage of it in order to build clearer Geometry Dash levels.
+  canonical: ""
+  noindex: false
 weight: 4180
 date: 2023-07-12T00:00:00.000Z
 description: Have you ever seen players complain about readability in a level? While a big part of unreadability stems from the decoration and gameplay itself, bad structuring can also make the level seem more messy and hence, unreadable. In this guide, we'll explore the reasons why good structuring can elevate a level's quality.

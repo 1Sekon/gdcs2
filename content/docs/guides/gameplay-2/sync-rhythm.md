@@ -3,6 +3,11 @@ draft: false
 authors:
   - illusion2
 title: Pacing 4 (Note Representation)
+seo:
+  title: How to Use Rhythm and Note Representation in Geometry Dash
+  description: Learn how sync, rhythm, strong beats, click patterns, movement, and repetition can make Geometry Dash gameplay more engaging.
+  canonical: ""
+  noindex: false
 weight: 7090
 date: 2025-11-15T00:00:00.000Z
 contributors:

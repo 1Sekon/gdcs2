@@ -4,6 +4,11 @@ authors:
   - mateussdev
   - unknown
 title: Scroll Speed Bug
+seo:
+  title: What Is the Scroll Speed Bug in Geometry Dash?
+  description: Learn what causes the Scroll Speed Bug in long Geometry Dash levels, how it affects gameplay, and what creators should know about it.
+  canonical: ""
+  noindex: false
 weight: 4235
 date: 2023-12-16T00:00:00.000Z
 contributors:

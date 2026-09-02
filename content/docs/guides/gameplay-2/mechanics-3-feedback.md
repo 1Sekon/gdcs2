@@ -3,6 +3,11 @@ draft: false
 authors:
   - illusion2
 title: Mechanics 3 (Feedback)
+seo:
+  title: How to Use Feedback in Geometry Dash Gameplay
+  description: Learn how visual, audio, and responsive feedback teach players the rules of a Geometry Dash level and improve engagement.
+  canonical: ""
+  noindex: false
 weight: 7030
 date: 2025-03-01T00:00:00.000Z
 contributors:
