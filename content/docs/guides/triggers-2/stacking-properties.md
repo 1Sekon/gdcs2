@@ -5,7 +5,12 @@ authors:
 title: Stacking Properties
 weight: 6045
 date: 2026-09-02T00:00:00.000Z
-description: Stacking is an important component of using triggers. By combining two triggers, you can achieve different effects depending on the type of triggers used. For example, an object targeted by two move triggers activated simultaneously will have both move effects applied at once. In this guide, we’ll untangle the ways that triggers can stack, and also cover useful setups involving stacking.
+description: Stacking is an important component of using triggers. By combining
+  two triggers, you can achieve different effects depending on the type of
+  triggers used. For example, an object targeted by two move triggers activated
+  simultaneously will have both move effects applied at once. In this guide,
+  we’ll untangle the ways that triggers can stack, and also cover useful setups
+  involving stacking.
 tags:
   - Grade 2
   - Trigger Concepts
@@ -307,6 +312,8 @@ In real life, forces come in pairs; if object $A$ exerts a force on object $B$, 
 * Forces approaching each other are attractive, meaning the objects will come closer as time progresses. Opposing forces are the opposite of this.
 * One force approaching an object while another moves away is considered asymmetric.
 
+The diagram below illustrate these types of forces. The notation $F_{AB}$ indicates the force directed from object $A$ to object $B$, and $F_{BA}$ the force directed from object $B$ to object $A$.
+
 {{< img src="https://lh3.googleusercontent.com/d/10PuJd4cumCgtKJdPYI4qNi5krOT9jVb2" >}}
 
 The magnitude of these forces is also important. **They can have equal magnitudes, or there can be forces with higher magnitude than another**. By managing the direction and magnitude of the forces, you can model a lot of physics situations, where the more objects and interactions you have, the more complex and unpredictable the model will get.
@@ -346,7 +353,17 @@ Sometimes you’ll run into situations where stacking individual triggers isn’
 ## What is Binary?
 
 Unlike our base$-$10 decimal system consisting of digits 0 to 9, binary represents numbers using only 1s and 0s, referred to as base$-$2. **Each place value in binary** is called a **bit**. Counting in decimal would look like this: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, and so on, whereas counting in binary would look like this: 0, 1, 10, 11, 100, 101, and so on.
-In base$-$10, each place value represents a power of 10; the rightmost digit is multiplied by 10⁰, the next digit by 10¹, the next by 10² and so on. For example, 3472 in decimal equals 3·10³ + 4·10² + 7·10¹ + 2·10⁰. In binary, each bit represents a power of 2. For example, the number 1101 in binary equals 1·2³ + 1·2² + 0·2¹ + 1·2⁰, which equates to 13 in base$-$10. The maximum value you can store in a given number of bits can be found with the formula $2^n - 1$, where $n$ is the number of bits you have. For example, 4 bits gives you a maximum of $2^4 - 1$, or 15.
+In base$-$10, each place value represents a power of 10; the rightmost digit is multiplied by $10^0$, the next digit by $10^1$, the next by $10^2$ and so on. For example, 3472 in decimal equals 
+$$
+3\cdot 10^3 + 4\cdot 10^2 + 7\cdot 10^1 + 2\cdot 10^0.
+$$
+
+In binary, each bit represents a power of 2. For example, the number 1101 in binary equals 
+$$
+1\cdot 2^3 + 1\cdot 2^2 + 0\cdot 2^1 + 1\cdot 2^0,
+$$
+
+which equates to 13 in base$-$10. The maximum value you can store in a given number of bits can be found with the formula $2^n - 1$, where $n$ is the number of bits you have. For example, 4 bits gives you a maximum of $2^4 - 1$, or 15.
 
 {{< img src="https://lh3.googleusercontent.com/d/1uylbjmkxui3xUsL4lxn8s1BqquSmaGku" >}}
 
@@ -384,7 +401,7 @@ If we stack multiple Toggle Triggers, keeping Binary Counting in mind, we can sa
 
 {{< youtube D4Vi1TQf6p4 >}}
 
-Overall this results in $2^{n/2} - 1$ possible states, where $n$ is the number of groups you’ve used on the switches. This setup is especially useful for cases requiring many unique states, such as frame-by-frame animation or data structures.
+Overall this results in $2^{n/2}-1$ possible states, where $n$ is the number of groups you’ve used on the switches, which is always an even number because you need two groups per switch. This setup is especially useful for cases requiring many unique states, such as frame-by-frame animation or data structures.
 
 ## Transformative Logic
 
@@ -392,11 +409,11 @@ Much like Toggle triggers, we can think of transformative triggers as being “a
 
 What this means is that you can get significantly more efficient stacks without using nearly as many groups. **Instead of needing a unique trigger for every possible transformation, you can reuse smaller “building blocks” that combine to form all our target outcomes**, following the same logic as binary does. With $n$ stacked triggers, this method gives you up to $2^n-1$ unique effect combinations.
 
-A good example is parallax movement. Instead of making a new Follow trigger for each layer speed, you can use smaller base speeds like 0.5x, 0.25x, and 0.12x. By turning them on in different combinations, you get 7 different net speeds (0.12, 0.25, 0.37, 0.5, 0.62, 0.75, 0.87), which are almost evenly spaced. You can do this with any set of numbers as long as they are in multiples of base$-$2. (e.g. the first layer moves 0.25x, on the 4th bit, you multiply 8 * 0.25 to get 2.)
+A good example is parallax movement. Instead of making a new Follow trigger for each layer speed, you can use smaller base speeds like 0.5x, 0.25x, and 0.12x. By turning them on in different combinations, you get 7 different net speeds ($0.12$, $0.25$, $0.37$, $0.5$, $0.62$, $0.75$, $0.87$), which are almost evenly spaced. You can do this with any set of numbers as long as they are in multiples of base$-$2. (e.g. the first layer moves 0.25x, on the 4th bit, you multiply $8 \cdot 0.25$ to get $2$.)
 
 {{< youtube gMYEKSA_-fg >}}
 
-Another example is Pulse Triggers. Since HSV values stack additively, you can place several pulse triggers that adjust the hue by different amounts. The values used aren’t too important, but it’s recommended that they follow the format $a\cdot 2^{n-1}$, where $a$ is the value that the first trigger holds. For instance, if you use 4 pulse triggers that shift the hue in units of +15, +30, +60 and +120, then by combining them you can reach hues 15, 30, 45, up to 225. The same idea can be applied to saturation or brightness values as well, allowing a wider color palette from only a few Pulse Triggers.
+Another example is Pulse Triggers. Since HSV values stack additively, you can place several pulse triggers that adjust the hue by different amounts. The values used aren’t too important, but it’s recommended that they follow the format $a\cdot 2^{n-1}$, where $a$ is the value that the first trigger holds. For instance, if you use 4 pulse triggers that shift the hue in units of $+15$, $+30$, $+60$ and $+120$, then by combining them you can reach hues $15$, $30$, $45$, up to $225$. The same idea can be applied to saturation or brightness values as well, allowing a wider color palette from only a few Pulse Triggers.
 
 {{< youtube 9g8k0kaLIM0 >}}
 
@@ -412,11 +429,11 @@ Suppose we want to use a number $X$ to control the value of some effect applied 
 1. Determine a maximum value $d$ the effect should reach, then determine the largest integer $n$ such that $2^n \le d$. For example, if we want to move $O$ at most 200 units, then we need to choose $n = 7$, because $2^7 = 128 \le 200$. This way, we will cover $2^n + 2^{n-1} + \cdots + 1$ units total, which in this case would be 255 units.
 2. Use a spawn trigger to activate an Item Edit Trigger targetting an unused ID $A$. Item Edit will perform the operation “$A$ = $X$” to save the input number $X$ to ID $A$, which will enable us to modify the input number stored in $A$ without changing $X$.
 3. Using the same spawn trigger, activate $n+1$ Item Comp Triggers ordered horizontally, making sure they are placed after the Item Edit. Each Item Comp will correspond to a power of two, ordered from largest to smallest.
-4. For every $k-$th item comp, make it check if “$A$ ≥ $2^{k-1}$”. If that condition passes, spawn an Item Edit Trigger that performs “$A$ = $A$ - $2^{k-1}$”, then spawn the trigger that applies the effect you want by an amount of $2^{k-1}$ units. Repeat for all Item Comp Triggers until you have checked all $n+1$ of them.
+4. For every $k-$th item comp, make it check if “$A \geq 2^{k-1}$”. If that condition passes, spawn an Item Edit Trigger that performs “$A$ = $A - 2^{k-1}$”, then spawn the trigger that applies the effect you want by an amount of $2^{k-1}$ units. Repeat for all Item Comp Triggers until you have checked all $n+1$ of them.
 
 {{< youtube VCt27w9TMY8 >}}
 
-What we are essentially doing here is converting from decimal to binary, where we transform an object by $2^k$ units, if and only if the $k-$th position of the binary representation of $X$ is 1. Since the effects stack additively, the sum of all contributions will match $X$ exactly, and thus $A$ will be transformed $X$ units (this process can be seen in the video when spawn order is activated).
+What we are essentially doing here is converting from decimal to binary, where we transform an object by $2^k$ units, if and only if the $k-$th position of the binary representation of $X$ is 1. Since the effects stack additively, the sum of all contributions will match $X$ exactly, and thus $O$ will be transformed $X$ units (this process can be seen in the video when spawn order is activated).
 
 We use binary units to ensure the entire process is done within a frame. Since any number can be represented in binary, we read the digits from left to right to determine how the object should move; object $A$ moves $2^k$ units if the $k-$th digit is 1. By setting a maximum distance $d$, we know the binary representations of all numbers available will not exceed $d$, guaranteeing spawn loops won’t be used to handle digit lengths, which would make this process slower. We will expand more on this setup and other ones involving advanced logic on the [Making Functions](/docs/guides/triggers-2/making-functions.md) guide.
 
