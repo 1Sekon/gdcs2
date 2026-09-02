@@ -3,20 +3,26 @@ draft: false
 authors:
   - kde
 title: Color 1 (Basics)
-seo:
-  title: What Are the Basics of Color in Geometry Dash?
-  description: Learn the fundamentals of color and how hue, saturation, and value can improve Geometry Dash decoration.
-  canonical: ""
-  noindex: false
 weight: 8010
 date: 2023-10-15T00:00:00.000Z
 contributors:
   - gustonguygermany
   - kde
-description: Using color effectively is a complex and a difficult thing to master that requires a certain skill. However, investing the time required to study will help you create appealing deco. Understanding basic concepts such as using hue, saturation, and value, will greatly help you make appealing and sensible colors for your designs. This guide will teach you the important basics of color.
+description: Using color effectively is a complex and a difficult thing to
+  master that requires a certain skill. However, investing the time required to
+  study will help you create appealing deco. Understanding basic concepts such
+  as using hue, saturation, and value, will greatly help you make appealing and
+  sensible colors for your designs. This guide will teach you the important
+  basics of color.
 tags:
   - Grade 2
   - Light & Color
+seo:
+  title: Color Theory Basics for Geometry Dash
+  description: Learn the fundamentals of color and how hue, saturation, and value
+    can improve Geometry Dash decoration.
+  canonical: ""
+  noindex: false
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
